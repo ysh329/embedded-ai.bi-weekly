@@ -14,7 +14,7 @@ https://arxiv.org/abs/1706.03912
 
 ## Binarization
 
-* [1602.02830] Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1
+* [1602.02830] Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1  
 https://arxiv.org/abs/1602.02830
 
 * [1603.05279] XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks
