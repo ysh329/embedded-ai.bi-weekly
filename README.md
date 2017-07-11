@@ -9,7 +9,7 @@ https://arxiv.org/abs/1707.01083
 * [1704.04861] MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
 https://arxiv.org/abs/1704.04861
 
-* [1706.03912] SEP-Nets: Small and Effective Pattern Networks
+* [1706.03912] SEP-Nets: Small and Effective Pattern Networks  
 https://arxiv.org/abs/1706.03912
 
 ## Binarization
@@ -34,7 +34,7 @@ https://arxiv.org/abs/1503.02531
 * Face Model Compression by Distilling Knowledge from Neurons  
 http://www.ee.cuhk.edu.hk/~xgwang/papers/luoZLWXaaai16.pdf
 
-## Pruning/Quantization;
+## Pruning/Quantization
 
 
 
