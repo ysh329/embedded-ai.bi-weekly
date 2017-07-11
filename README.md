@@ -23,13 +23,16 @@ https://arxiv.org/abs/1705.09864
 * [1606.06160] DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients
 https://arxiv.org/abs/1606.06160
 
-## Distilling
+## Distillation
 
-* [1503.02531] Distilling the Knowledge in a Neural Network
+* [1503.02531] Distilling the Knowledge in a Neural Network  
 https://arxiv.org/abs/1503.02531
 
-* Face Model Compression by Distilling Knowledge from Neurons
+* Face Model Compression by Distilling Knowledge from Neurons  
 http://www.ee.cuhk.edu.hk/~xgwang/papers/luoZLWXaaai16.pdf
+
+## Pruning/Quantization;
+
 
 
 
