@@ -1,6 +1,12 @@
 # Embeded-AI-paper-list
 Embeded-AI-paper-list
 
+## Classic
+
+* ResNet
+* Xecption
+* ResNeXt
+
 ## Structure/Pattern
 
 * [1707.01083] ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
