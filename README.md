@@ -9,6 +9,9 @@ https://arxiv.org/abs/1707.01083
 * [1704.04861] MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
 https://arxiv.org/abs/1704.04861
 
+* [1706.03912] SEP-Nets: Small and Effective Pattern Networks
+https://arxiv.org/abs/1706.03912
+
 ## Binarization
 
 * [1602.02830] Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1
