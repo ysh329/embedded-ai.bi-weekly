@@ -1,5 +1,5 @@
-# Embeded-AI-paper-list
-Embeded-AI-paper-list
+# Embedded-AI-paper-list
+Embedded-AI-paper-list
 
 ## Classic
 
