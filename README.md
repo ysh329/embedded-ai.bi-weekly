@@ -4,12 +4,12 @@
 
 - [Embedded-AI-paper-list](#Embedded-AI-paper-list)
 - [Embedded-AI-demos](#Embedded-AI-demos)
- - [computer-vision-demos](#computer-vision-demos)
- - [speech-demos](#speech-demos)
- - [natural-language-process-demos](#nlp-demos)
+  - [computer-vision-demos](#computer-vision-demos)
+  - [speech-demos](#speech-demos)
+  - [natural-language-process-demos](#nlp-demos)
 - [Embedded-AI-frameworks](#Embedded-AI-frameworks)
- - [inference-frameworks](#inference-frameworks)
- - [benchmark-frameworks](#benchmark-frameworks)
+  - [inference-frameworks](#inference-frameworks)
+  - [benchmark-frameworks](#benchmark-frameworks)
 - [Embedded-benchmark]
 
 ## Embedded-AI-paper-list
