@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [Embedded-AI-paper-list](#Embedded\-AI\-paper\-list)
+- [Embedded-AI-paper-list](#Embedded`-`AI`-`paper`-`list)
 - [Embedded-AI-demos](#Embedded-AI-demos)
   - [computer-vision-demos](#computer-vision-demos)
   - [speech-demos](#speech-demos)
@@ -12,7 +12,7 @@
   - [benchmark-frameworks](#benchmark-frameworks)
 - [Embedded-benchmark]
 
-## Papers
+## Embedded-AI-paper-list
 Embedded-AI-paper-list
 
 ### Classic
