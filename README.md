@@ -1,7 +1,7 @@
 # Emebedded-AI-awesome
 <p align="center">
   <a href="https://github.com/ysh329/Embedded-AI-awesome">
-    <img alt="Embedded-AI-awesome" src="logo.png" width="700">
+    <img alt="Embedded-AI-awesome" src="logo.jpg" width="700">
   </a>
 </p>
 
@@ -23,6 +23,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 </p>
 
 </div>
+
 ## Contents
 
 - [Embedded-AI-paper-list](#Embedded\-AI\-paper\-list)
