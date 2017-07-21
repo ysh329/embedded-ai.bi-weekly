@@ -81,8 +81,16 @@ http://www.ee.cuhk.edu.hk/~xgwang/papers/luoZLWXaaai16.pdf
 ### Pruning/Quantization
 
 
-## Embedded-AI-demos
+## Mobile App Examples
 
 * KleinYuan/Caffe2-iOS: Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.
 https://github.com/KleinYuan/Caffe2-iOS
 
+* MXNet Android Classification App - Image classification on Android with MXNet.
+https://github.com/Leliana/WhatsThis
+
+* MXNet iOS Classification App - Image classification on iOS with MXNet.
+https://github.com/pppoe/WhatsThis-iOS
+
+* Compile MXnet on Xcode (in Chinese) - a step-by-step tutorial of compiling MXnet on Xcode for iOS app
+http://www.liuxiao.org/2015/12/ios-mxnet-%E7%9A%84-ios-%E7%89%88%E6%9C%AC%E7%BC%96%E8%AF%91/
