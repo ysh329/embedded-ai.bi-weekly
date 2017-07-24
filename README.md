@@ -248,18 +248,62 @@ https://github.com/KimDarren/FaceCropper
 
 # Embedded-AI-frameworks
 
+## General-frameworks  
+General frameworks contains inference and backprop stages.
+
+## Inference-frameworks
+
+* mil-tokyo/webdnn: Fastest DNN Execution Framework on Web Browser  
+https://github.com/mil-tokyo/webdnn)
+
 * jiaxiang-wu/quantized-cnn: An efficient framework for convolutional neural networks  
 https://github.com/jiaxiang-wu/quantized-cnn
 
+* Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform  
+https://github.com/Tencent/ncnn
+
+## Benchmark-frameworks
+
+* DeepBench
+
+* facebook
+
+
 # Course/Guides/Tutorials
 
-* [Deep learning **systems**](http://dlsys.cs.washington.edu/schedule), UW course schedule(focused on systems design, not learning)
+* Deep learning **systems**: UW course schedule(focused on systems design, not learning)  
+http://dlsys.cs.washington.edu/schedule
 
-* [Squeezing Deep Learning Into Mobile Phones](https://www.slideshare.net/anirudhkoul/squeezing-deep-learning-into-mobile-phones)
+* Squeezing Deep Learning Into Mobile Phones  
+https://www.slideshare.net/anirudhkoul/squeezing-deep-learning-into-mobile-phones)
 
-* [Deep Learning – Tutorial and Recent Trends](https://www.dropbox.com/s/p7lvelt0aihrwtl/FPGA%2717%20tutorial%20Song%20Han.pdf?dl=0)
+* Deep Learning – Tutorial and Recent Trends  
+https://www.dropbox.com/s/p7lvelt0aihrwtl/FPGA%2717%20tutorial%20Song%20Han.pdf?dl=0)
 
-* [Efficient Convolutional Neural Network Inference on Mobile GPUs](https://www.slideshare.net/embeddedvision/efficient-convolutional-neural-network-inference-on-mobile-gpus-a-presentation-from-imagination-technologies)
+* Efficient Convolutional Neural Network Inference on Mobile GPUs  
+https://www.slideshare.net/embeddedvision/efficient-convolutional-neural-network-inference-on-mobile-gpus-a-presentation-from-imagination-technologies
+
+* ARM® Mali™ GPU OpenCL Developer Guide  
+html: http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.100614_0303_00_en/ada1432742770595.html  
+pdf:  http://infocenter.arm.com/help/topic/com.arm.doc.100614_0303_00_en/arm_mali_gpu_opencl_developer_guide_100614_0303_00_en.pdf
+
+* Optimal Compute on ARM MaliTM GPUs  
+http://www.cs.bris.ac.uk/home/simonm/montblanc/OpenCL_on_Mali.pdf
+
+* GPU Compute for Mobile Devices  
+http://www.iwocl.org/wp-content/uploads/iwocl-2014-workshop-Tim-Hartley.pdf
+
+* Compute for Mobile Devices Performance focused  
+http://kesen.realtimerendering.com/Compute_for_Mobile_Devices5.pdf
+
+* Hands On OpenCL  
+https://handsonopencl.github.io/
+
+* Adreno OpenCL Programming Guide  
+https://developer.qualcomm.com/download/adrenosdk/adreno-opencl-programming-guide.pdf
+
+* Better OpenCL Performance on Qualcomm Adreno GPU  
+https://developer.qualcomm.com/blog/better-opencl-performance-qualcomm-adreno-gpu-memory-optimization
 
 ## News
 
