@@ -46,8 +46,11 @@ Embedded-AI-paper-list
 * [1512.03385] Deep Residual Learning for Image Recognition  
 https://arxiv.org/abs/1512.03385
 
-* Xecption
-* ResNeXt
+* [1610.02357] Xception: Deep Learning with Depthwise Separable Convolutions  
+https://arxiv.org/abs/1610.02357
+
+* [1611.05431] **ResneXt**: Aggregated Residual Transformations for Deep Neural Networks  
+https://arxiv.org/abs/1611.05431
 
 ### Overview
 
