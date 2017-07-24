@@ -27,17 +27,24 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 ## Contents
 
 - [Papers](#papers)  
+  - [Classic](#classic)
+  - [Overview](#overview)
+  - [Representation](#representation)
+  - [Structure/Pattern](#structure)
+  - [Binarization](#binarization)
+  - [Pruning](#Pruning)
+  - [Quantization](#Quantization)
+  - [Low Rank Approximation](#LowRankApproximation)
+  - [Distillation](#Distillation)
+  - [Execution/Frameworks](#FrameworkPaper)
 - [App-Experience](#experience)  
 - [Demo-Codes](#codes)
   - [Android](#android)
   - [iOS](#ios)
-  - [FPGA](#)
-  - [OpenCL/OpenGL/Vulkan/RenderScript/ARMComputeLibrary](#)
 - [Frameworks](#frameworks)
   - [general](#general)
-  - [inference](#inference-frameworks)
-  - [benchmark](#benchmark-frameworks)
-- [Embedded-benchmark](#benchmark)
+  - [inference](#inference)
+  - [benchmark](#benchmark)
 - [Course/Guide/Tutorial](#course)
 - [News](#news)
 
@@ -70,7 +77,7 @@ http://niclane.org/pubs/sparsesep_sensys.pdf
 * [IoT-App ’15] An Early Resource Characterization of Deep Learning on Wearables, Smartphones and Internet-of-Things Devices  
 http://niclane.org/pubs/iotapp15_early.pdf
 
-## Structure/Pattern
+## Structure
 
 * [1707.06342] ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression  
 https://arxiv.org/abs/1707.06342
@@ -100,14 +107,6 @@ https://arxiv.org/abs/1705.09864
 
 * [1606.06160] DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients
 https://arxiv.org/abs/1606.06160
-
-## Distillation
-
-* [1503.02531] Distilling the Knowledge in a Neural Network  
-https://arxiv.org/abs/1503.02531
-
-* Face Model Compression by Distilling Knowledge from Neurons  
-http://www.ee.cuhk.edu.hk/~xgwang/papers/luoZLWXaaai16.pdf
 
 ## Pruning
 
@@ -161,7 +160,7 @@ https://arxiv.org/abs/1702.00953
 * [1706.02393] ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks  
 https://arxiv.org/abs/1706.02393) 
 
-## Low Rank Approximation
+## LowRankApproximation
 
 * [CVPR'15] Efficient and Accurate Approximations of Nonlinear Convolutional Networks  
 https://arxiv.org/abs/1411.4229
@@ -178,7 +177,15 @@ https://arxiv.org/abs/1404.0736
 * [ICLR'16] Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications  
 https://arxiv.org/abs/1511.06530
 
-## Execution/Frameworks
+## Distillation
+
+* [1503.02531] Distilling the Knowledge in a Neural Network  
+https://arxiv.org/abs/1503.02531
+
+* Face Model Compression by Distilling Knowledge from Neurons  
+http://www.ee.cuhk.edu.hk/~xgwang/papers/luoZLWXaaai16.pdf
+
+## FrameworkPaper
 
 * [1605.04614] DeepLearningKit - an GPU Optimized Deep Learning Framework for Apple's iOS, OS X and tvOS developed in Metal and Swift  
 https://arxiv.org/abs/1605.04614
@@ -247,6 +254,9 @@ https://github.com/pppoe/WhatsThis-iOS
 * Compile MXnet on Xcode (in Chinese) - a step-by-step tutorial of compiling MXnet on Xcode for iOS app  
 http://www.liuxiao.org/2015/12/ios-mxnet-%E7%9A%84-ios-%E7%89%88%E6%9C%AC%E7%BC%96%E8%AF%91/
 
+* KleinYuan/Caffe2-iOS: Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.
+https://github.com/KleinYuan/Caffe2-iOS
+
 * KimDarren/FaceCropper: Crop faces, inside of your image, with iOS 11 Vision api.
 https://github.com/KimDarren/FaceCropper
 
@@ -294,17 +304,23 @@ https://github.com/jiaxiang-wu/quantized-cnn
 * Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform  
 https://github.com/Tencent/ncnn
 
-## Benchmark-frameworks
+## Benchmark
 
 * baidu-research/DeepBench: Benchmarking Deep Learning operations on different hardware  
 https://github.com/baidu-research/DeepBench
 
-
-
 * facebook
 
+## Convertor
 
-# Course/Guides/Tutorials
+Model convertor. more convertos please refer [deep-learning-model-convertor](https://github.com/ysh329/deep-learning-model-convertor)
+
+* NervanaSystems/caffe2neon: Tools to convert Caffe models to neon's serialization format  
+https://github.com/NervanaSystems/caffe2neon
+
+# Course
+
+This part contains related course, guides and tutorials.
 
 * Deep learning **systems**: UW course schedule(focused on systems design, not learning)  
 http://dlsys.cs.washington.edu/schedule
