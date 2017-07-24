@@ -47,6 +47,8 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
   - [inference](#inference)
   - [benchmark](#benchmark)
 - [Course/Guide/Tutorial](#course)
+- [Hardware](#hardware)
+  - [GPU](#gpu)
 - [News](#news)
 
 # Papers
