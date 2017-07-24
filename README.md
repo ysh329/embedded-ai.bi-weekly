@@ -200,7 +200,7 @@ https://www.sigmobile.org/mobisys/2017/accepted.php
 http://fahim-kawsar.net/papers/Mathur.MobiSys2017-Camera.pdf
 
 * [EMDL '17] MobiRNN: Efficient Recurrent Neural Network Execution on Mobile GPU  
-https://arxiv.org/abs/1706.00878) 
+https://arxiv.org/abs/1706.00878 
 
 * [WearSys '16] DeepSense: A GPU-based deep convolutional neural network framework on commodity mobile devices  
 http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4278&context=sis_research
@@ -232,7 +232,8 @@ http://blog.csdn.net/jxt1234and2010/article/details/71056736
 
 ## Android
 
-* harvardnlp/nmt-android: Neural Machine Translation on Android](https://github.com/harvardnlp/nmt-android
+* harvardnlp/nmt-android: Neural Machine Translation on Android  
+https://github.com/harvardnlp/nmt-android
 
 * TensorFlow Android Camera Demo  
 https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android
