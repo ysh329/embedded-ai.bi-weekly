@@ -27,6 +27,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 ## Contents
 
 - [Embedded-AI-paper-list](#Embedded\-AI\-paper\-list)
+- [Embedded-AI-App-experience]  
 - [Embedded-AI-demos](#Embedded-AI-demos)
   - [computer-vision-demos](#computer-vision-demos)
   - [speech-demos](#speech-demos)
@@ -47,6 +48,9 @@ Embedded-AI-paper-list
 
 ### Structure/Pattern
 
+* [1707.06342] ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression  
+https://arxiv.org/abs/1707.06342
+
 * [1707.01083] ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
 https://arxiv.org/abs/1707.01083
 
@@ -57,6 +61,9 @@ https://arxiv.org/abs/1704.04861
 https://arxiv.org/abs/1706.03912
 
 ### Binarization
+
+* [1707.04693] Binarized Convolutional Neural Networks with Separable Filters for Efficient Hardware Acceleration  
+https://arxiv.org/abs/1707.04693
 
 * [1602.02830] Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1  
 https://arxiv.org/abs/1602.02830
@@ -80,6 +87,10 @@ http://www.ee.cuhk.edu.hk/~xgwang/papers/luoZLWXaaai16.pdf
 
 ### Pruning/Quantization
 
+## Embedded-AI-App-experience
+
+* 【技术共享】怎么把人脸检测的速度做到极致  
+https://mp.weixin.qq.com/s?__biz=MzA3NDU3MTc1Ng==&mid=2651165778&idx=1&sn=2f2d8f6b7a11d381a4290a20817b46a2
 
 ## Mobile App Examples
   
@@ -94,3 +105,9 @@ https://github.com/pppoe/WhatsThis-iOS
 
 * Compile MXnet on Xcode (in Chinese) - a step-by-step tutorial of compiling MXnet on Xcode for iOS app  
 http://www.liuxiao.org/2015/12/ios-mxnet-%E7%9A%84-ios-%E7%89%88%E6%9C%AC%E7%BC%96%E8%AF%91/
+
+
+## Embedded-AI-frameworks
+
+* jiaxiang-wu/quantized-cnn: An efficient framework for convolutional neural networks  
+https://github.com/jiaxiang-wu/quantized-cnn
