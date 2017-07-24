@@ -278,7 +278,7 @@ https://github.com/alexhultman/libvc
 # Frameworks
 
 ## General  
-General frameworks contains inference and backprop stages.
+General frameworks contain inference and backprop stages.
 
 ## Inference  
 Inference frameworks contains inference stage only.
