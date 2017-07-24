@@ -104,30 +104,30 @@ http://www.ee.cuhk.edu.hk/~xgwang/papers/luoZLWXaaai16.pdf
 
 ### Pruning
 
-* [NIPS'15]Learning both Weights and Connections for Efficient Neural Networks  
+* [NIPS'15] Learning both Weights and Connections for Efficient Neural Networks  
 https://arxiv.org/abs/1506.02626 
 
-* [ICLR'17]Pruning Filters for Efficient ConvNets  
+* [ICLR'17] Pruning Filters for Efficient ConvNets  
 https://arxiv.org/abs/1608.08710
 
-* [ICLR'17]Pruning Convolutional Neural Networks for Resource Efficient Inference  
+* [ICLR'17] Pruning Convolutional Neural Networks for Resource Efficient Inference  
 https://arxiv.org/abs/1611.06440
 
-* [ICLR'17]Soft Weight-Sharing for Neural Network Compression  
+* [ICLR'17] Soft Weight-Sharing for Neural Network Compression  
 https://arxiv.org/abs/1702.04008
 
-* [ICLR'16]Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding  
+* [ICLR'16] Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding  
 https://arxiv.org/abs/1510.00149
 
-* [NIPS'16]Dynamic Network Surgery for Efficient DNNs  
+* [NIPS'16] Dynamic Network Surgery for Efficient DNNs  
 https://arxiv.org/abs/1608.04493
 
-* [CVPR'17]Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning  
+* [CVPR'17] Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning  
 https://arxiv.org/abs/1611.05128
 
 ### Quantization
 
-* [ICML'17]The ZipML Framework for Training Models with End-to-End Low Precision: The Cans, the Cannots, and a Little Bit of Deep Learning  
+* [ICML'17] The ZipML Framework for Training Models with End-to-End Low Precision: The Cans, the Cannots, and a Little Bit of Deep Learning  
 https://arxiv.org/abs/1611.05402
 
 * [1412.6115] Compressing Deep Convolutional Networks using Vector Quantization  
@@ -176,31 +176,31 @@ https://arxiv.org/abs/1511.06530
 * [1605.04614] DeepLearningKit - an GPU Optimized Deep Learning Framework for Apple's iOS, OS X and tvOS developed in Metal and Swift  
 https://arxiv.org/abs/1605.04614
 
-* [MobiSys '17]DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications]  
+* [MobiSys '17] DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications]  
 https://www.sigmobile.org/mobisys/2017/accepted.php 
 
-* [MobiSys '17]DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware  
+* [MobiSys '17] DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware  
 http://fahim-kawsar.net/papers/Mathur.MobiSys2017-Camera.pdf
 
-* [EMDL '17]MobiRNN: Efficient Recurrent Neural Network Execution on Mobile GPU  
+* [EMDL '17] MobiRNN: Efficient Recurrent Neural Network Execution on Mobile GPU  
 https://arxiv.org/abs/1706.00878) 
 
-* [WearSys '16]DeepSense: A GPU-based deep convolutional neural network framework on commodity mobile devices  
+* [WearSys '16] DeepSense: A GPU-based deep convolutional neural network framework on commodity mobile devices  
 http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4278&context=sis_research
 
-* [IPSN '16]DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices  
+* [IPSN '16] DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices  
 http://niclane.org/pubs/deepx_ipsn.pdf
 
-* [ISCA '16]EIE: Efficient Inference Engine on Compressed Deep Neural Network  
+* [ISCA '16] EIE: Efficient Inference Engine on Compressed Deep Neural Network  
 https://arxiv.org/abs/1602.01528
 
-* [MobiSys '16]MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints  
+* [MobiSys '16] MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints  
 http://haneul.github.io/papers/mcdnn.pdf
 
-* [MobiCASE '16]DXTK: Enabling Resource-efficient Deep Learning on Mobile and Embedded Devices with the DeepX Toolkit  
+* [MobiCASE '16] DXTK: Enabling Resource-efficient Deep Learning on Mobile and Embedded Devices with the DeepX Toolkit  
 http://niclane.org/pubs/dxtk_mobicase.pdf
 
-* [MM '16]CNNdroid: GPU-Accelerated Execution of Trained Deep Convolutional Neural Networks on Android  
+* [MM '16] CNNdroid: GPU-Accelerated Execution of Trained Deep Convolutional Neural Networks on Android  
 https://arxiv.org/abs/1511.07376
 
 
@@ -240,6 +240,18 @@ https://github.com/KimDarren/FaceCropper
 
 * jiaxiang-wu/quantized-cnn: An efficient framework for convolutional neural networks  
 https://github.com/jiaxiang-wu/quantized-cnn
+
+## Course
+
+* [Deep learning **systems**](http://dlsys.cs.washington.edu/schedule), UW course schedule(focused on systems design, not learning)
+
+## Guides/Tutorials
+
+* [Squeezing Deep Learning Into Mobile Phones](https://www.slideshare.net/anirudhkoul/squeezing-deep-learning-into-mobile-phones)
+
+* [Deep Learning – Tutorial and Recent Trends](https://www.dropbox.com/s/p7lvelt0aihrwtl/FPGA%2717%20tutorial%20Song%20Han.pdf?dl=0)
+
+* [Efficient Convolutional Neural Network Inference on Mobile GPUs](https://www.slideshare.net/embeddedvision/efficient-convolutional-neural-network-inference-on-mobile-gpus-a-presentation-from-imagination-technologies)
 
 ## News
 
