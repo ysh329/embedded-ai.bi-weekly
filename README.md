@@ -36,6 +36,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
   - [inference-frameworks](#inference-frameworks)
   - [benchmark-frameworks](#benchmark-frameworks)
 - [Embedded-benchmark]
+- [News]
 
 ## Embedded-AI-paper-list
 Embedded-AI-paper-list
@@ -45,6 +46,15 @@ Embedded-AI-paper-list
 * ResNet
 * Xecption
 * ResNeXt
+
+### Overview
+
+* [1707.01209] Model compression as constrained optimization, with application to neural nets. Part I: general framework
+https://arxiv.org/abs/1707.01209
+
+* [1707.04319] Model compression as constrained optimization, with application to neural nets. Part II: quantization
+https://arxiv.org/abs/1707.04319
+
 
 ### Structure/Pattern
 
@@ -87,18 +97,27 @@ http://www.ee.cuhk.edu.hk/~xgwang/papers/luoZLWXaaai16.pdf
 
 ### Pruning/Quantization
 
+## 
+
 ## Embedded-AI-App-experience
 
 * 【技术共享】怎么把人脸检测的速度做到极致  
 https://mp.weixin.qq.com/s?__biz=MzA3NDU3MTc1Ng==&mid=2651165778&idx=1&sn=2f2d8f6b7a11d381a4290a20817b46a2
 
+* 基于OpenGL ES 的深度学习框架编写 - jxt1234and2010的专栏 - CSDN博客  
+http://blog.csdn.net/jxt1234and2010/article/details/71056736
+
 ## Mobile App Examples
-  
+
+### Android
+ 
 * KleinYuan/Caffe2-iOS: Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.  
 https://github.com/KleinYuan/Caffe2-iOS
 
 * MXNet Android Classification App - Image classification on Android with MXNet.  
 https://github.com/Leliana/WhatsThis
+
+### iOS
 
 * MXNet iOS Classification App - Image classification on iOS with MXNet.  
 https://github.com/pppoe/WhatsThis-iOS
@@ -106,8 +125,18 @@ https://github.com/pppoe/WhatsThis-iOS
 * Compile MXnet on Xcode (in Chinese) - a step-by-step tutorial of compiling MXnet on Xcode for iOS app  
 http://www.liuxiao.org/2015/12/ios-mxnet-%E7%9A%84-ios-%E7%89%88%E6%9C%AC%E7%BC%96%E8%AF%91/
 
+* KimDarren/FaceCropper: Crop faces, inside of your image, with iOS 11 Vision api.
+https://github.com/KimDarren/FaceCropper
 
 ## Embedded-AI-frameworks
 
 * jiaxiang-wu/quantized-cnn: An efficient framework for convolutional neural networks  
 https://github.com/jiaxiang-wu/quantized-cnn
+
+## News
+
+* We ported CAFFE to HIP - and here’s what happened… - GPUOpen
+http://gpuopen.com/ported-caffe-hip-heres-happened/
+
+*　Clarifai launches SDK for training AI on your iPhone | VentureBeat | AI | by Khari Johnson
+https://venturebeat.com/2017/07/12/clarifai-launches-sdk-for-running-ai-on-your-iphone/
