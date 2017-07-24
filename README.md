@@ -26,7 +26,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Contents
 
-- [Embedded-AI-paper-list](#Embedded\-AI\-paper\-list)
+- [Embedded-AI-paper-list](#papers)
 - [Embedded-AI-App-experience]  
 - [Embedded-AI-demos](#Embedded-AI-demos)
   - [computer-vision-demos](#computer-vision-demos)
@@ -38,7 +38,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 - [Embedded-benchmark]
 - [News]
 
-## Embedded-AI-paper-list
+## Papers
 Embedded-AI-paper-list
 
 ### Classic
@@ -62,10 +62,10 @@ https://arxiv.org/abs/1707.04319
 
 ### Representation
 
-* [SenSys ’16]Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables  
+* [SenSys ’16] Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables  
 http://niclane.org/pubs/sparsesep_sensys.pdf
 
-* [IoT-App ’15]An Early Resource Characterization of Deep Learning on Wearables, Smartphones and Internet-of-Things Devices  
+* [IoT-App ’15] An Early Resource Characterization of Deep Learning on Wearables, Smartphones and Internet-of-Things Devices  
 http://niclane.org/pubs/iotapp15_early.pdf
 
 ### Structure/Pattern
