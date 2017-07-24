@@ -275,12 +275,12 @@ https://github.com/ARM-software/vulkan-sdk
 * alexhultman/libvc: Vulkan Compute for C++ (experimentation project)  
 https://github.com/alexhultman/libvc
 
-# Embedded-AI-frameworks
+# Frameworks
 
-## General-frameworks  
+## General  
 General frameworks contains inference and backprop stages.
 
-## Inference-frameworks  
+## Inference  
 Inference frameworks contains inference stage only.
 
 * Deep Learning in a Single File for Smart Devices — mxnet  
@@ -314,7 +314,8 @@ https://github.com/baidu-research/DeepBench
 
 ## Convertor
 
-Model convertor. more convertos please refer [deep-learning-model-convertor](https://github.com/ysh329/deep-learning-model-convertor)
+Model convertor. more convertos please refer [deep-learning-model-convertor  
+https://github.com/ysh329/deep-learning-model-convertor)
 
 * NervanaSystems/caffe2neon: Tools to convert Caffe models to neon's serialization format  
 https://github.com/NervanaSystems/caffe2neon
