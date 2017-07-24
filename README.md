@@ -26,22 +26,24 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Contents
 
-- [Embedded-AI-paper-list](#papers)
-- [Embedded-AI-App-experience]  
-- [Embedded-AI-demos](#Embedded-AI-demos)
-  - [computer-vision-demos](#computer-vision-demos)
-  - [speech-demos](#speech-demos)
-  - [natural-language-process-demos](#nlp-demos)
-- [Embedded-AI-frameworks](#Embedded-AI-frameworks)
-  - [inference-frameworks](#inference-frameworks)
-  - [benchmark-frameworks](#benchmark-frameworks)
-- [Embedded-benchmark]
-- [News]
+- [Papers](#papers)  
+- [App-Experience](#experience)  
+- [Demo-Codes](#codes)
+  - [Android](#android)
+  - [iOS](#ios)
+  - [FPGA](#)
+  - [OpenCL/OpenGL/Vulkan/RenderScript/ARMComputeLibrary](#)
+- [Frameworks](#frameworks)
+  - [general](#general)
+  - [inference](#inference-frameworks)
+  - [benchmark](#benchmark-frameworks)
+- [Embedded-benchmark](#benchmark)
+- [Course/Guide/Tutorial](#course)
+- [News](#news)
 
-## Papers
-Embedded-AI-paper-list
+# Papers
 
-### Classic
+## Classic
 
 * [1512.03385] Deep Residual Learning for Image Recognition  
 https://arxiv.org/abs/1512.03385
@@ -52,7 +54,7 @@ https://arxiv.org/abs/1610.02357
 * [1611.05431] **ResneXt**: Aggregated Residual Transformations for Deep Neural Networks  
 https://arxiv.org/abs/1611.05431
 
-### Overview
+## Overview
 
 * [1707.01209] Model compression as constrained optimization, with application to neural nets. Part I: general framework  
 https://arxiv.org/abs/1707.01209
@@ -60,7 +62,7 @@ https://arxiv.org/abs/1707.01209
 * [1707.04319] Model compression as constrained optimization, with application to neural nets. Part II: quantization  
 https://arxiv.org/abs/1707.04319
 
-### Representation
+## Representation
 
 * [SenSys ’16] Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables  
 http://niclane.org/pubs/sparsesep_sensys.pdf
@@ -68,7 +70,7 @@ http://niclane.org/pubs/sparsesep_sensys.pdf
 * [IoT-App ’15] An Early Resource Characterization of Deep Learning on Wearables, Smartphones and Internet-of-Things Devices  
 http://niclane.org/pubs/iotapp15_early.pdf
 
-### Structure/Pattern
+## Structure/Pattern
 
 * [1707.06342] ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression  
 https://arxiv.org/abs/1707.06342
@@ -82,7 +84,7 @@ https://arxiv.org/abs/1704.04861
 * [1706.03912] SEP-Nets: Small and Effective Pattern Networks  
 https://arxiv.org/abs/1706.03912
 
-### Binarization
+## Binarization
 
 * [1707.04693] Binarized Convolutional Neural Networks with Separable Filters for Efficient Hardware Acceleration  
 https://arxiv.org/abs/1707.04693
@@ -99,7 +101,7 @@ https://arxiv.org/abs/1705.09864
 * [1606.06160] DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients
 https://arxiv.org/abs/1606.06160
 
-### Distillation
+## Distillation
 
 * [1503.02531] Distilling the Knowledge in a Neural Network  
 https://arxiv.org/abs/1503.02531
@@ -107,7 +109,7 @@ https://arxiv.org/abs/1503.02531
 * Face Model Compression by Distilling Knowledge from Neurons  
 http://www.ee.cuhk.edu.hk/~xgwang/papers/luoZLWXaaai16.pdf
 
-### Pruning
+## Pruning
 
 * [NIPS'15] Learning both Weights and Connections for Efficient Neural Networks  
 https://arxiv.org/abs/1506.02626 
@@ -130,7 +132,7 @@ https://arxiv.org/abs/1608.04493
 * [CVPR'17] Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning  
 https://arxiv.org/abs/1611.05128
 
-### Quantization
+## Quantization
 
 * [ICML'17] The ZipML Framework for Training Models with End-to-End Low Precision: The Cans, the Cannots, and a Little Bit of Deep Learning  
 https://arxiv.org/abs/1611.05402
@@ -159,7 +161,7 @@ https://arxiv.org/abs/1702.00953
 * [1706.02393] ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks  
 https://arxiv.org/abs/1706.02393) 
 
-#### Low Rank Approximation
+## Low Rank Approximation
 
 * [CVPR'15] Efficient and Accurate Approximations of Nonlinear Convolutional Networks  
 https://arxiv.org/abs/1411.4229
@@ -176,7 +178,7 @@ https://arxiv.org/abs/1404.0736
 * [ICLR'16] Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications  
 https://arxiv.org/abs/1511.06530
 
-### Execution/Frameworks
+## Execution/Frameworks
 
 * [1605.04614] DeepLearningKit - an GPU Optimized Deep Learning Framework for Apple's iOS, OS X and tvOS developed in Metal and Swift  
 https://arxiv.org/abs/1605.04614
@@ -209,8 +211,7 @@ http://niclane.org/pubs/dxtk_mobicase.pdf
 https://arxiv.org/abs/1511.07376
 
 
-
-## Embedded-AI-App-experience
+# Experience
 
 * 【技术共享】怎么把人脸检测的速度做到极致  
 https://mp.weixin.qq.com/s?__biz=MzA3NDU3MTc1Ng==&mid=2651165778&idx=1&sn=2f2d8f6b7a11d381a4290a20817b46a2
@@ -220,9 +221,9 @@ http://blog.csdn.net/jxt1234and2010/article/details/71056736
 
 # Codes
 
-## Mobile App Examples
+## Apps
 
-### Android
+## Android
  
 * KleinYuan/Caffe2-iOS: Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.  
 https://github.com/KleinYuan/Caffe2-iOS
@@ -230,7 +231,7 @@ https://github.com/KleinYuan/Caffe2-iOS
 * MXNet Android Classification App - Image classification on Android with MXNet.  
 https://github.com/Leliana/WhatsThis
 
-### iOS
+## iOS
 
 * MXNet iOS Classification App - Image classification on iOS with MXNet.  
 https://github.com/pppoe/WhatsThis-iOS
@@ -241,20 +242,18 @@ http://www.liuxiao.org/2015/12/ios-mxnet-%E7%9A%84-ios-%E7%89%88%E6%9C%AC%E7%BC%
 * KimDarren/FaceCropper: Crop faces, inside of your image, with iOS 11 Vision api.
 https://github.com/KimDarren/FaceCropper
 
-### FPGA
+## FPGA
 
 ## OpenCL/OpenGL/Vulkan/RenderScript/ARMComputeLibrary
 
-## Embedded-AI-frameworks
+# Embedded-AI-frameworks
 
 * jiaxiang-wu/quantized-cnn: An efficient framework for convolutional neural networks  
 https://github.com/jiaxiang-wu/quantized-cnn
 
-## Course
+# Course/Guides/Tutorials
 
 * [Deep learning **systems**](http://dlsys.cs.washington.edu/schedule), UW course schedule(focused on systems design, not learning)
-
-## Guides/Tutorials
 
 * [Squeezing Deep Learning Into Mobile Phones](https://www.slideshare.net/anirudhkoul/squeezing-deep-learning-into-mobile-phones)
 
