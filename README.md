@@ -43,7 +43,9 @@ Embedded-AI-paper-list
 
 ### Classic
 
-* ResNet
+* [1512.03385] Deep Residual Learning for Image Recognition  
+https://arxiv.org/abs/1512.03385
+
 * Xecption
 * ResNeXt
 
