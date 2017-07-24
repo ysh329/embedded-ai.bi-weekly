@@ -49,12 +49,19 @@ Embedded-AI-paper-list
 
 ### Overview
 
-* [1707.01209] Model compression as constrained optimization, with application to neural nets. Part I: general framework
+* [1707.01209] Model compression as constrained optimization, with application to neural nets. Part I: general framework  
 https://arxiv.org/abs/1707.01209
 
-* [1707.04319] Model compression as constrained optimization, with application to neural nets. Part II: quantization
+* [1707.04319] Model compression as constrained optimization, with application to neural nets. Part II: quantization  
 https://arxiv.org/abs/1707.04319
 
+### Representation
+
+* [SenSys ’16]Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables  
+http://niclane.org/pubs/sparsesep_sensys.pdf
+
+* [IoT-App ’15]An Early Resource Characterization of Deep Learning on Wearables, Smartphones and Internet-of-Things Devices  
+http://niclane.org/pubs/iotapp15_early.pdf
 
 ### Structure/Pattern
 
@@ -97,7 +104,39 @@ http://www.ee.cuhk.edu.hk/~xgwang/papers/luoZLWXaaai16.pdf
 
 ### Pruning/Quantization
 
-## 
+### Execution/Frameworks
+
+* [1605.04614] DeepLearningKit - an GPU Optimized Deep Learning Framework for Apple's iOS, OS X and tvOS developed in Metal and Swift  
+https://arxiv.org/abs/1605.04614
+
+* [MobiSys '17]DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications]  
+https://www.sigmobile.org/mobisys/2017/accepted.php 
+
+* [MobiSys '17]DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware  
+http://fahim-kawsar.net/papers/Mathur.MobiSys2017-Camera.pdf
+
+* [EMDL '17]MobiRNN: Efficient Recurrent Neural Network Execution on Mobile GPU  
+https://arxiv.org/abs/1706.00878) 
+
+* [WearSys '16]DeepSense: A GPU-based deep convolutional neural network framework on commodity mobile devices  
+http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4278&context=sis_research
+
+* [IPSN '16]DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices  
+http://niclane.org/pubs/deepx_ipsn.pdf
+
+* [ISCA '16]EIE: Efficient Inference Engine on Compressed Deep Neural Network  
+https://arxiv.org/abs/1602.01528
+
+* [MobiSys '16]MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints  
+http://haneul.github.io/papers/mcdnn.pdf
+
+* [MobiCASE '16]DXTK: Enabling Resource-efficient Deep Learning on Mobile and Embedded Devices with the DeepX Toolkit  
+http://niclane.org/pubs/dxtk_mobicase.pdf
+
+* [MM '16]CNNdroid: GPU-Accelerated Execution of Trained Deep Convolutional Neural Networks on Android  
+https://arxiv.org/abs/1511.07376
+
+
 
 ## Embedded-AI-App-experience
 
@@ -128,6 +167,8 @@ http://www.liuxiao.org/2015/12/ios-mxnet-%E7%9A%84-ios-%E7%89%88%E6%9C%AC%E7%BC%
 * KimDarren/FaceCropper: Crop faces, inside of your image, with iOS 11 Vision api.
 https://github.com/KimDarren/FaceCropper
 
+### FPGA
+
 ## Embedded-AI-frameworks
 
 * jiaxiang-wu/quantized-cnn: An efficient framework for convolutional neural networks  
@@ -135,8 +176,8 @@ https://github.com/jiaxiang-wu/quantized-cnn
 
 ## News
 
-* We ported CAFFE to HIP - and here’s what happened… - GPUOpen
+* We ported CAFFE to HIP - and here’s what happened… - GPUOpen  
 http://gpuopen.com/ported-caffe-hip-heres-happened/
 
-*　Clarifai launches SDK for training AI on your iPhone | VentureBeat | AI | by Khari Johnson
+* Clarifai launches SDK for training AI on your iPhone | VentureBeat | AI | by Khari Johnson
 https://venturebeat.com/2017/07/12/clarifai-launches-sdk-for-running-ai-on-your-iphone/
