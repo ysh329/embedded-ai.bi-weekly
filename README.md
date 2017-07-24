@@ -210,7 +210,6 @@ http://niclane.org/pubs/dxtk_mobicase.pdf
 * [MM '16] CNNdroid: GPU-Accelerated Execution of Trained Deep Convolutional Neural Networks on Android  
 https://arxiv.org/abs/1511.07376
 
-
 # Experience
 
 * 【技术共享】怎么把人脸检测的速度做到极致  
@@ -221,15 +220,24 @@ http://blog.csdn.net/jxt1234and2010/article/details/71056736
 
 # Codes
 
-## Apps
-
 ## Android
- 
+
+* harvardnlp/nmt-android: Neural Machine Translation on Android](https://github.com/harvardnlp/nmt-android
+
+* TensorFlow Android Camera Demo  
+https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android
+
 * KleinYuan/Caffe2-iOS: Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.  
 https://github.com/KleinYuan/Caffe2-iOS
 
 * MXNet Android Classification App - Image classification on Android with MXNet.  
 https://github.com/Leliana/WhatsThis
+
+* bwasti/AICamera: Demonstration of using Caffe2 inside an Android application.  
+https://github.com/bwasti/AICamera
+
+* mtmd/Mobile_ConvNet: RenderScript based implementation of Convolutional Neural Networks for Android phones  
+https://github.com/mtmd/Mobile_ConvNet
 
 ## iOS
 
@@ -242,19 +250,43 @@ http://www.liuxiao.org/2015/12/ios-mxnet-%E7%9A%84-ios-%E7%89%88%E6%9C%AC%E7%BC%
 * KimDarren/FaceCropper: Crop faces, inside of your image, with iOS 11 Vision api.
 https://github.com/KimDarren/FaceCropper
 
-## FPGA
+* hollance/TensorFlow-iOS-Example: Source code for my blog post "Getting started with TensorFlow on iOS"  
+https://github.com/hollance/TensorFlow-iOS-Example
 
-## OpenCL/OpenGL/Vulkan/RenderScript/ARMComputeLibrary
+## Vulkan
+
+* SaschaWillems/Vulkan: Examples and demos for the new Vulkan API  
+https://github.com/SaschaWillems/Vulkan
+
+* ARM-software/vulkan-sdk: ARM Vulkan SDK  
+https://github.com/ARM-software/vulkan-sdk
+
+* alexhultman/libvc: Vulkan Compute for C++ (experimentation project)  
+https://github.com/alexhultman/libvc
 
 # Embedded-AI-frameworks
 
 ## General-frameworks  
 General frameworks contains inference and backprop stages.
 
-## Inference-frameworks
+## Inference-frameworks  
+Inference frameworks contains inference stage only.
+
+* Deep Learning in a Single File for Smart Devices — mxnet  
+https://github.com/dmlc/mxnet/tree/master/amalgamation
+
+* ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies  
+https://github.com/ARM-software/ComputeLibrary  
+[Intro](https://developer.arm.com/technologies/compute-library)
+
+* Apple CoreML  
+https://developer.apple.com/documentation/coreml
+
+* Microsoft Embedded Learning Library  
+https://github.com/Microsoft/ELL
 
 * mil-tokyo/webdnn: Fastest DNN Execution Framework on Web Browser  
-https://github.com/mil-tokyo/webdnn)
+https://github.com/mil-tokyo/webdnn
 
 * jiaxiang-wu/quantized-cnn: An efficient framework for convolutional neural networks  
 https://github.com/jiaxiang-wu/quantized-cnn
@@ -264,7 +296,10 @@ https://github.com/Tencent/ncnn
 
 ## Benchmark-frameworks
 
-* DeepBench
+* baidu-research/DeepBench: Benchmarking Deep Learning operations on different hardware  
+https://github.com/baidu-research/DeepBench
+
+
 
 * facebook
 
@@ -275,10 +310,10 @@ https://github.com/Tencent/ncnn
 http://dlsys.cs.washington.edu/schedule
 
 * Squeezing Deep Learning Into Mobile Phones  
-https://www.slideshare.net/anirudhkoul/squeezing-deep-learning-into-mobile-phones)
+https://www.slideshare.net/anirudhkoul/squeezing-deep-learning-into-mobile-phones
 
 * Deep Learning – Tutorial and Recent Trends  
-https://www.dropbox.com/s/p7lvelt0aihrwtl/FPGA%2717%20tutorial%20Song%20Han.pdf?dl=0)
+https://www.dropbox.com/s/p7lvelt0aihrwtl/FPGA%2717%20tutorial%20Song%20Han.pdf?dl=0
 
 * Efficient Convolutional Neural Network Inference on Mobile GPUs  
 https://www.slideshare.net/embeddedvision/efficient-convolutional-neural-network-inference-on-mobile-gpus-a-presentation-from-imagination-technologies
