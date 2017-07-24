@@ -102,7 +102,74 @@ https://arxiv.org/abs/1503.02531
 * Face Model Compression by Distilling Knowledge from Neurons  
 http://www.ee.cuhk.edu.hk/~xgwang/papers/luoZLWXaaai16.pdf
 
-### Pruning/Quantization
+### Pruning
+
+* [NIPS'15]Learning both Weights and Connections for Efficient Neural Networks  
+https://arxiv.org/abs/1506.02626 
+
+* [ICLR'17]Pruning Filters for Efficient ConvNets  
+https://arxiv.org/abs/1608.08710
+
+* [ICLR'17]Pruning Convolutional Neural Networks for Resource Efficient Inference  
+https://arxiv.org/abs/1611.06440
+
+* [ICLR'17]Soft Weight-Sharing for Neural Network Compression  
+https://arxiv.org/abs/1702.04008
+
+* [ICLR'16]Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding  
+https://arxiv.org/abs/1510.00149
+
+* [NIPS'16]Dynamic Network Surgery for Efficient DNNs  
+https://arxiv.org/abs/1608.04493
+
+* [CVPR'17]Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning  
+https://arxiv.org/abs/1611.05128
+
+### Quantization
+
+* [ICML'17]The ZipML Framework for Training Models with End-to-End Low Precision: The Cans, the Cannots, and a Little Bit of Deep Learning  
+https://arxiv.org/abs/1611.05402
+
+* [1412.6115] Compressing Deep Convolutional Networks using Vector Quantization  
+https://arxiv.org/abs/1412.6115
+
+* [CVPR '16] Quantized Convolutional Neural Networks for Mobile Devices  
+https://arxiv.org/abs/1512.06473
+
+* [ICASSP'16] Fixed-Point Performance Analysis of Recurrent Neural Networks  
+https://arxiv.org/abs/1512.01322
+
+* [arXiv'16] Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations  
+https://arxiv.org/abs/1609.07061
+
+* [ICLR'17] Loss-aware Binarization of Deep Networks  
+https://arxiv.org/abs/1611.01600
+
+* [ICLR'17] Towards the Limit of Network Quantization  
+https://arxiv.org/abs/1612.01543
+
+* [CVPR'17] Deep Learning with Low Precision by Half-wave Gaussian Quantization  
+https://arxiv.org/abs/1702.00953
+
+* [1706.02393] ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks  
+https://arxiv.org/abs/1706.02393) 
+
+#### Low Rank Approximation
+
+* [CVPR'15] Efficient and Accurate Approximations of Nonlinear Convolutional Networks  
+https://arxiv.org/abs/1411.4229
+
+  * Accelerating Very Deep Convolutional Networks for Classification and Detection  
+  https://arxiv.org/abs/1505.06798
+  
+* [1511.06067] Convolutional neural networks with low-rank regularization  
+https://arxiv.org/abs/1511.06067
+
+* [NIPS'14] Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation  
+https://arxiv.org/abs/1404.0736
+
+* [ICLR'16] Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications  
+https://arxiv.org/abs/1511.06530
 
 ### Execution/Frameworks
 
