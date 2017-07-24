@@ -314,8 +314,7 @@ https://github.com/baidu-research/DeepBench
 
 ## Convertor
 
-Model convertor. more convertos please refer [deep-learning-model-convertor  
-https://github.com/ysh329/deep-learning-model-convertor)
+Model convertor. More convertos please refer [deep-learning-model-convertor](https://github.com/ysh329/deep-learning-model-convertor)
 
 * NervanaSystems/caffe2neon: Tools to convert Caffe models to neon's serialization format  
 https://github.com/NervanaSystems/caffe2neon
@@ -357,6 +356,22 @@ https://developer.qualcomm.com/download/adrenosdk/adreno-opencl-programming-guid
 
 * Better OpenCL Performance on Qualcomm Adreno GPU  
 https://developer.qualcomm.com/blog/better-opencl-performance-qualcomm-adreno-gpu-memory-optimization
+
+## Hardware
+
+### GPU
+
+* Bifrost GPU architecture and ARM Mali-G71 GPU  
+https://www.hotchips.org/wp-content/uploads/hc_archives/hc28/HC28.22-Monday-Epub/HC28.22.10-GPU-HPC-Epub/HC28.22.110-Bifrost-JemDavies-ARM-v04-9.pdf
+
+* Midgard GPU Architecture  
+http://malideveloper.arm.com/downloads/ARM_Game_Developer_Days/PDFs/2-Mali-GPU-architecture-overview-and-tile-local-storage.pdf
+
+* ARM Mali-T880 GPU  
+https://www.hotchips.org/wp-content/uploads/hc_archives/hc27/HC27.25-Tuesday-Epub/HC27.25.50-GPU-Epub/HC27.25.531-Mali-T880-Bratt-ARM-2015_08_23.pdf
+
+* Mobile GPU market share  
+https://hwstats.unity3d.com/mobile/gpu.html
 
 ## News
 
