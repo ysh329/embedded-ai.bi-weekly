@@ -55,178 +55,88 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Classic
 
-* [1512.03385] Deep Residual Learning for Image Recognition  
-https://arxiv.org/abs/1512.03385
-
-* [1610.02357] Xception: Deep Learning with Depthwise Separable Convolutions  
-https://arxiv.org/abs/1610.02357
-
-* [1611.05431] **ResneXt**: Aggregated Residual Transformations for Deep Neural Networks  
-https://arxiv.org/abs/1611.05431
+* [1512.03385] [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+* [1610.02357] [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357)
+* [1611.05431] **ResneXt**: [Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/abs/1611.05431)
 
 ## Overview
 
-* [1707.01209] Model compression as constrained optimization, with application to neural nets. Part I: general framework  
-https://arxiv.org/abs/1707.01209
-
-* [1707.04319] Model compression as constrained optimization, with application to neural nets. Part II: quantization  
-https://arxiv.org/abs/1707.04319
+* [1707.01209] [Model compression as constrained optimization, with application to neural nets. Part I: general framework](https://arxiv.org/abs/1707.01209)
+* [1707.04319] [Model compression as constrained optimization, with application to neural nets. Part II: quantization](https://arxiv.org/abs/1707.04319)
 
 ## Representation
 
-* [SenSys ’16] Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables  
-http://niclane.org/pubs/sparsesep_sensys.pdf
-
-* [IoT-App ’15] An Early Resource Characterization of Deep Learning on Wearables, Smartphones and Internet-of-Things Devices  
-http://niclane.org/pubs/iotapp15_early.pdf
+* [SenSys ’16] [Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables](http://niclane.org/pubs/sparsesep_sensys.pdf)
+* [IoT-App ’15] [An Early Resource Characterization of Deep Learning on Wearables, Smartphones and Internet-of-Things Devices](http://niclane.org/pubs/iotapp15_early.pdf)
 
 ## Structure
 
-* [1707.06342] ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression  
-https://arxiv.org/abs/1707.06342
-
-* [1707.01083] ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
-https://arxiv.org/abs/1707.01083
-
-* [1704.04861] MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
-https://arxiv.org/abs/1704.04861
-
-* [1706.03912] SEP-Nets: Small and Effective Pattern Networks  
-https://arxiv.org/abs/1706.03912
+* [1707.06342] [ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression](https://arxiv.org/abs/1707.06342)
+* [1707.01083] [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/abs/1707.01083)
+* [1704.04861] [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
+* [1706.03912] [SEP-Nets: Small and Effective Pattern Networks](https://arxiv.org/abs/1706.03912)
 
 ## Binarization
 
-* [1707.04693] Binarized Convolutional Neural Networks with Separable Filters for Efficient Hardware Acceleration  
-https://arxiv.org/abs/1707.04693
-
-* [1602.02830] Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1  
-https://arxiv.org/abs/1602.02830
-
-* [1603.05279] XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks
-https://arxiv.org/abs/1603.05279
-
-  * [1705.09864] BMXNet: An Open-Source Binary Neural Network Implementation Based on MXNet
-https://arxiv.org/abs/1705.09864
-
-* [1606.06160] DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients
-https://arxiv.org/abs/1606.06160
+* [1707.04693] [Binarized Convolutional Neural Networks with Separable Filters for Efficient Hardware Acceleration](https://arxiv.org/abs/1707.04693)
+* [1602.02830] [Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1](https://arxiv.org/abs/1602.02830)
+* [1603.05279] [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks](https://arxiv.org/abs/1603.05279)
+  * [1705.09864] [BMXNet: An Open-Source Binary Neural Network Implementation Based on MXNet](https://arxiv.org/abs/1705.09864)
+* [1606.06160] [DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients](https://arxiv.org/abs/1606.06160)
 
 ## Pruning
 
-* [NIPS'15] Learning both Weights and Connections for Efficient Neural Networks  
-https://arxiv.org/abs/1506.02626 
-
-* [ICLR'17] Pruning Filters for Efficient ConvNets  
-https://arxiv.org/abs/1608.08710
-
-* [ICLR'17] Pruning Convolutional Neural Networks for Resource Efficient Inference  
-https://arxiv.org/abs/1611.06440
-
-* [ICLR'17] Soft Weight-Sharing for Neural Network Compression  
-https://arxiv.org/abs/1702.04008
-
-* [ICLR'16] Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding  
-https://arxiv.org/abs/1510.00149
-
-* [NIPS'16] Dynamic Network Surgery for Efficient DNNs  
-https://arxiv.org/abs/1608.04493
-
-* [CVPR'17] Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning  
-https://arxiv.org/abs/1611.05128
+* [CVPR'17] [Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning](https://arxiv.org/abs/1611.05128)
+* [ICLR'17] [Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710)
+* [ICLR'17] [Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440)
+* [ICLR'17] [Soft Weight-Sharing for Neural Network Compression](https://arxiv.org/abs/1702.04008)
+* [ICLR'16] [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)
+* [NIPS'16] [Dynamic Network Surgery for Efficient DNNs](https://arxiv.org/abs/1608.04493)
+* [NIPS'15] [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626) 
 
 ## Quantization
 
-* [ICML'17] The ZipML Framework for Training Models with End-to-End Low Precision: The Cans, the Cannots, and a Little Bit of Deep Learning  
-https://arxiv.org/abs/1611.05402
-
-* [1412.6115] Compressing Deep Convolutional Networks using Vector Quantization  
-https://arxiv.org/abs/1412.6115
-
-* [CVPR '16] Quantized Convolutional Neural Networks for Mobile Devices  
-https://arxiv.org/abs/1512.06473
-
-* [ICASSP'16] Fixed-Point Performance Analysis of Recurrent Neural Networks  
-https://arxiv.org/abs/1512.01322
-
-* [arXiv'16] Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations  
-https://arxiv.org/abs/1609.07061
-
-* [ICLR'17] Loss-aware Binarization of Deep Networks  
-https://arxiv.org/abs/1611.01600
-
-* [ICLR'17] Towards the Limit of Network Quantization  
-https://arxiv.org/abs/1612.01543
-
-* [CVPR'17] Deep Learning with Low Precision by Half-wave Gaussian Quantization  
-https://arxiv.org/abs/1702.00953
-
-* [1706.02393] ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks  
-https://arxiv.org/abs/1706.02393) 
+* [ICML'17] [The ZipML Framework for Training Models with End-to-End Low Precision: The Cans, the Cannots, and a Little Bit of Deep Learning](https://arxiv.org/abs/1611.05402)
+* [1412.6115] [Compressing Deep Convolutional Networks using Vector Quantization](https://arxiv.org/abs/1412.6115)
+* [CVPR '16] [Quantized Convolutional Neural Networks for Mobile Devices](https://arxiv.org/abs/1512.06473)
+* [ICASSP'16] [Fixed-Point Performance Analysis of Recurrent Neural Networks](https://arxiv.org/abs/1512.01322)
+* [arXiv'16] [Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations](https://arxiv.org/abs/1609.07061)
+* [ICLR'17] [Loss-aware Binarization of Deep Networks](https://arxiv.org/abs/1611.01600)
+* [ICLR'17] [Towards the Limit of Network Quantization](https://arxiv.org/abs/1612.01543)
+* [CVPR'17] [eep Learning with Low Precision by Half-wave Gaussian Quantization](https://arxiv.org/abs/1702.00953)
+* [1706.02393] [hiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks](https://arxiv.org/abs/1706.02393)
 
 ## LowRankApproximation
 
-* [CVPR'15] Efficient and Accurate Approximations of Nonlinear Convolutional Networks  
-https://arxiv.org/abs/1411.4229
-
-  * Accelerating Very Deep Convolutional Networks for Classification and Detection  
-  https://arxiv.org/abs/1505.06798
-  
-* [1511.06067] Convolutional neural networks with low-rank regularization  
-https://arxiv.org/abs/1511.06067
-
-* [NIPS'14] Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation  
-https://arxiv.org/abs/1404.0736
-
-* [ICLR'16] Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications  
-https://arxiv.org/abs/1511.06530
+* [CVPR'15] [fficient and Accurate Approximations of Nonlinear Convolutional Networks](https://arxiv.org/abs/1411.4229)
+  * [ccelerating Very Deep Convolutional Networks for Classification and Detection](https://arxiv.org/abs/1505.06798)
+* [1511.06067] [onvolutional neural networks with low-rank regularization](https://arxiv.org/abs/1511.06067)
+* [NIPS'14] [xploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/abs/1404.0736)
+* [ICLR'16] [ompression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications](https://arxiv.org/abs/1511.06530)
 
 ## Distillation
 
-* [1503.02531] Distilling the Knowledge in a Neural Network  
-https://arxiv.org/abs/1503.02531
-
-* Face Model Compression by Distilling Knowledge from Neurons  
-http://www.ee.cuhk.edu.hk/~xgwang/papers/luoZLWXaaai16.pdf
+* [1503.02531] [istilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
+* [Fce Model Compression by Distilling Knowledge from Neurons](http://www.ee.cuhk.edu.hk/~xgwang/papers/luoZLWXaaai16.pdf)
 
 ## FrameworkPaper
 
-* [1605.04614] DeepLearningKit - an GPU Optimized Deep Learning Framework for Apple's iOS, OS X and tvOS developed in Metal and Swift  
-https://arxiv.org/abs/1605.04614
-
-* [MobiSys '17] DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications]  
-https://www.sigmobile.org/mobisys/2017/accepted.php 
-
-* [MobiSys '17] DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware  
-http://fahim-kawsar.net/papers/Mathur.MobiSys2017-Camera.pdf
-
-* [EMDL '17] MobiRNN: Efficient Recurrent Neural Network Execution on Mobile GPU  
-https://arxiv.org/abs/1706.00878 
-
-* [WearSys '16] DeepSense: A GPU-based deep convolutional neural network framework on commodity mobile devices  
-http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4278&context=sis_research
-
-* [IPSN '16] DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices  
-http://niclane.org/pubs/deepx_ipsn.pdf
-
-* [ISCA '16] EIE: Efficient Inference Engine on Compressed Deep Neural Network  
-https://arxiv.org/abs/1602.01528
-
-* [MobiSys '16] MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints  
-http://haneul.github.io/papers/mcdnn.pdf
-
-* [MobiCASE '16] DXTK: Enabling Resource-efficient Deep Learning on Mobile and Embedded Devices with the DeepX Toolkit  
-http://niclane.org/pubs/dxtk_mobicase.pdf
-
-* [MM '16] CNNdroid: GPU-Accelerated Execution of Trained Deep Convolutional Neural Networks on Android  
-https://arxiv.org/abs/1511.07376
+* [1605.04614] [DeepLearningKit - an GPU Optimized Deep Learning Framework for Apple's iOS, OS X and tvOS developed in Metal and Swift](https://arxiv.org/abs/1605.04614)
+* [MobiSys '17] [DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications](https://www.sigmobile.org/mobisys/2017/accepted.php)
+* [MobiSys '17] [DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware](http://fahim-kawsar.net/papers/Mathur.MobiSys2017-Camera.pdf)
+* [EMDL '17] [MobiRNN: Efficient Recurrent Neural Network Execution on Mobile GPU](https://arxiv.org/abs/1706.00878)
+* [WearSys '16] [DeepSense: A GPU-based deep convolutional neural network framework on commodity mobile devices](http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4278&context=sis_research)
+* [IPSN '16] [DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices](http://niclane.org/pubs/deepx_ipsn.pdf)
+* [ISCA '16] [EIE: Efficient Inference Engine on Compressed Deep Neural Network](https://arxiv.org/abs/1602.01528)
+* [MobiSys '16] [MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints](http://haneul.github.io/papers/mcdnn.pdf)
+* [MobiCASE '16] [DXTK: Enabling Resource-efficient Deep Learning on Mobile and Embedded Devices with the DeepX Toolkit](http://niclane.org/pubs/dxtk_mobicase.pdf)
+* [MM '16] [CNNdroid: GPU-Accelerated Execution of Trained Deep Convolutional Neural Networks on Android](https://arxiv.org/abs/1511.07376)
 
 # Experience
 
-* 【技术共享】怎么把人脸检测的速度做到极致  
-https://mp.weixin.qq.com/s?__biz=MzA3NDU3MTc1Ng==&mid=2651165778&idx=1&sn=2f2d8f6b7a11d381a4290a20817b46a2
+* 【技术共享】[怎么把人脸检测的速度做到极致](https://mp.weixin.qq.com/s?__biz=MzA3NDU3MTc1Ng==&mid=2651165778&idx=1&sn=2f2d8f6b7a11d381a4290a20817b46a2)
 
-* 基于OpenGL ES 的深度学习框架编写 - jxt1234and2010的专栏 - CSDN博客  
-http://blog.csdn.net/jxt1234and2010/article/details/71056736
+* [基于OpenGL ES 的深度学习框架编写 - jxt1234and2010的专栏 - CSDN博客](http://blog.csdn.net/jxt1234and2010/article/details/71056736)
 
 # Codes
 
