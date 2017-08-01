@@ -186,7 +186,7 @@ Inference frameworks contains inference stage only.
 
 ## Convertor
 
-Model convertor. More convertos please refer [deep-learning-model-convertor](https://github.com/ysh329/deep-learning-model-convertor)
+Model convertor. More convertors please refer [deep-learning-model-convertor](https://github.com/ysh329/deep-learning-model-convertor)
 
 * [NervanaSystems/caffe2neon: Tools to convert Caffe models to neon's serialization format](https://github.com/NervanaSystems/caffe2neon)
 
@@ -198,8 +198,7 @@ This part contains related course, guides and tutorials.
 * [Squeezing Deep Learning Into Mobile Phones](https://www.slideshare.net/anirudhkoul/squeezing-deep-learning-into-mobile-phones)
 * [Deep Learning – Tutorial and Recent Trends](https://www.dropbox.com/s/p7lvelt0aihrwtl/FPGA%2717%20tutorial%20Song%20Han.pdf?dl=0)
 * [Efficient Convolutional Neural Network Inference on Mobile GPUs](https://www.slideshare.net/embeddedvision/efficient-convolutional-neural-network-inference-on-mobile-gpus-a-presentation-from-imagination-technologies)
-* ARM® Mali™ GPU OpenCL Developer Guide  
-[html](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.100614_0303_00_en/ada1432742770595.html)  
+* ARM® Mali™ GPU OpenCL Developer Guide [html](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.100614_0303_00_en/ada1432742770595.html)
 [pdf](http://infocenter.arm.com/help/topic/com.arm.doc.100614_0303_00_en/arm_mali_gpu_opencl_developer_guide_100614_0303_00_en.pdf)
 * [Optimal Compute on ARM MaliTM GPUs](http://www.cs.bris.ac.uk/home/simonm/montblanc/OpenCL_on_Mali.pdf)
 * [GPU Compute for Mobile Devices](http://www.iwocl.org/wp-content/uploads/iwocl-2014-workshop-Tim-Hartley.pdf)
