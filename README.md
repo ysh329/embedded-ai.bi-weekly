@@ -103,20 +103,20 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 * [arXiv'16] [Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations](https://arxiv.org/abs/1609.07061)
 * [ICLR'17] [Loss-aware Binarization of Deep Networks](https://arxiv.org/abs/1611.01600)
 * [ICLR'17] [Towards the Limit of Network Quantization](https://arxiv.org/abs/1612.01543)
-* [CVPR'17] [eep Learning with Low Precision by Half-wave Gaussian Quantization](https://arxiv.org/abs/1702.00953)
-* [1706.02393] [hiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks](https://arxiv.org/abs/1706.02393)
+* [CVPR'17] [Deep Learning with Low Precision by Half-wave Gaussian Quantization](https://arxiv.org/abs/1702.00953)
+* [1706.02393] [ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks](https://arxiv.org/abs/1706.02393)
 
 ## LowRankApproximation
 
-* [CVPR'15] [fficient and Accurate Approximations of Nonlinear Convolutional Networks](https://arxiv.org/abs/1411.4229)
+* [CVPR'15] [Efficient and Accurate Approximations of Nonlinear Convolutional Networks](https://arxiv.org/abs/1411.4229)
   * [ccelerating Very Deep Convolutional Networks for Classification and Detection](https://arxiv.org/abs/1505.06798)
-* [1511.06067] [onvolutional neural networks with low-rank regularization](https://arxiv.org/abs/1511.06067)
-* [NIPS'14] [xploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/abs/1404.0736)
-* [ICLR'16] [ompression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications](https://arxiv.org/abs/1511.06530)
+* [1511.06067] [Convolutional neural networks with low-rank regularization](https://arxiv.org/abs/1511.06067)
+* [NIPS'14] [Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/abs/1404.0736)
+* [ICLR'16] [Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications](https://arxiv.org/abs/1511.06530)
 
 ## Distillation
 
-* [1503.02531] [istilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
+* [1503.02531] [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
 * [Fce Model Compression by Distilling Knowledge from Neurons](http://www.ee.cuhk.edu.hk/~xgwang/papers/luoZLWXaaai16.pdf)
 
 ## FrameworkPaper
@@ -135,58 +135,32 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 # Experience
 
 * 【技术共享】[怎么把人脸检测的速度做到极致](https://mp.weixin.qq.com/s?__biz=MzA3NDU3MTc1Ng==&mid=2651165778&idx=1&sn=2f2d8f6b7a11d381a4290a20817b46a2)
-
 * [基于OpenGL ES 的深度学习框架编写 - jxt1234and2010的专栏 - CSDN博客](http://blog.csdn.net/jxt1234and2010/article/details/71056736)
 
 # Codes
 
 ## Android
 
-* harvardnlp/nmt-android: Neural Machine Translation on Android  
-https://github.com/harvardnlp/nmt-android
-
-* TensorFlow Android Camera Demo  
-https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android
-
-* KleinYuan/Caffe2-iOS: Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.  
-https://github.com/KleinYuan/Caffe2-iOS
-
-* MXNet Android Classification App - Image classification on Android with MXNet.  
-https://github.com/Leliana/WhatsThis
-
-* bwasti/AICamera: Demonstration of using Caffe2 inside an Android application.  
-https://github.com/bwasti/AICamera
-
-* mtmd/Mobile_ConvNet: RenderScript based implementation of Convolutional Neural Networks for Android phones  
-https://github.com/mtmd/Mobile_ConvNet
+* [harvardnlp/nmt-android: Neural Machine Translation on Android](https://github.com/harvardnlp/nmt-android)
+* [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android)
+* [KleinYuan/Caffe2-iOS: Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.](https://github.com/KleinYuan/Caffe2-iOS)
+* [MXNet Android Classification App - Image classification on Android with MXNet.](https://github.com/Leliana/WhatsThis)
+* [bwasti/AICamera: Demonstration of using Caffe2 inside an Android application.](https://github.com/bwasti/AICamera)
+* [mtmd/Mobile_ConvNet: RenderScript based implementation of Convolutional Neural Networks for Android phones](https://github.com/mtmd/Mobile_ConvNet)
 
 ## iOS
 
-* MXNet iOS Classification App - Image classification on iOS with MXNet.  
-https://github.com/pppoe/WhatsThis-iOS
-
-* Compile MXnet on Xcode (in Chinese) - a step-by-step tutorial of compiling MXnet on Xcode for iOS app  
-http://www.liuxiao.org/2015/12/ios-mxnet-%E7%9A%84-ios-%E7%89%88%E6%9C%AC%E7%BC%96%E8%AF%91/
-
-* KleinYuan/Caffe2-iOS: Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.
-https://github.com/KleinYuan/Caffe2-iOS
-
-* KimDarren/FaceCropper: Crop faces, inside of your image, with iOS 11 Vision api.
-https://github.com/KimDarren/FaceCropper
-
-* hollance/TensorFlow-iOS-Example: Source code for my blog post "Getting started with TensorFlow on iOS"  
-https://github.com/hollance/TensorFlow-iOS-Example
+* [MXNet iOS Classification App - Image classification on iOS with MXNet.](https://github.com/pppoe/WhatsThis-iOS)
+* [Compile MXnet on Xcode (in Chinese) - a step-by-step tutorial of compiling MXnet on Xcode for iOS app](http://www.liuxiao.org/2015/12/ios-mxnet-%E7%9A%84-ios-%E7%89%88%E6%9C%AC%E7%BC%96%E8%AF%91/)
+* [KleinYuan/Caffe2-iOS: Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.](https://github.com/KleinYuan/Caffe2-iOS)
+* [KimDarren/FaceCropper: Crop faces, inside of your image, with iOS 11 Vision api.](https://github.com/KimDarren/FaceCropper)
+* [hollance/TensorFlow-iOS-Example: Source code for my blog post "Getting started with TensorFlow on iOS"](https://github.com/hollance/TensorFlow-iOS-Example)
 
 ## Vulkan
 
-* SaschaWillems/Vulkan: Examples and demos for the new Vulkan API  
-https://github.com/SaschaWillems/Vulkan
-
-* ARM-software/vulkan-sdk: ARM Vulkan SDK  
-https://github.com/ARM-software/vulkan-sdk
-
-* alexhultman/libvc: Vulkan Compute for C++ (experimentation project)  
-https://github.com/alexhultman/libvc
+* [SaschaWillems/Vulkan: Examples and demos for the new Vulkan API](https://github.com/SaschaWillems/Vulkan)
+* [ARM-software/vulkan-sdk: ARM Vulkan SDK](https://github.com/ARM-software/vulkan-sdk)
+* [alexhultman/libvc: Vulkan Compute for C++ (experimentation project)](https://github.com/alexhultman/libvc)
 
 # Frameworks
 
@@ -196,32 +170,17 @@ General frameworks contain inference and backprop stages.
 ## Inference  
 Inference frameworks contains inference stage only.
 
-* Deep Learning in a Single File for Smart Devices — mxnet  
-https://github.com/dmlc/mxnet/tree/master/amalgamation
-
-* ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies  
-https://github.com/ARM-software/ComputeLibrary  
-[Intro](https://developer.arm.com/technologies/compute-library)
-
-* Apple CoreML  
-https://developer.apple.com/documentation/coreml
-
-* Microsoft Embedded Learning Library  
-https://github.com/Microsoft/ELL
-
-* mil-tokyo/webdnn: Fastest DNN Execution Framework on Web Browser  
-https://github.com/mil-tokyo/webdnn
-
-* jiaxiang-wu/quantized-cnn: An efficient framework for convolutional neural networks  
-https://github.com/jiaxiang-wu/quantized-cnn
-
-* Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform  
-https://github.com/Tencent/ncnn
+* [Deep Learning in a Single File for Smart Devices — mxnet](https://github.com/dmlc/mxnet/tree/master/amalgamation)
+* [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary) [Intro](https://developer.arm.com/technologies/compute-library)
+* [Apple CoreML](https://developer.apple.com/documentation/coreml)
+* [Microsoft Embedded Learning Library](https://github.com/Microsoft/ELL)
+* [mil-tokyo/webdnn: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn)
+* [jiaxiang-wu/quantized-cnn: An efficient framework for convolutional neural networks](https://github.com/jiaxiang-wu/quantized-cnn)
+* [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn)
 
 ## Benchmark
 
-* baidu-research/DeepBench: Benchmarking Deep Learning operations on different hardware  
-https://github.com/baidu-research/DeepBench
+* [baidu-research/DeepBench: Benchmarking Deep Learning operations on different hardware](https://github.com/baidu-research/DeepBench)
 
 * facebook
 
@@ -229,67 +188,36 @@ https://github.com/baidu-research/DeepBench
 
 Model convertor. More convertos please refer [deep-learning-model-convertor](https://github.com/ysh329/deep-learning-model-convertor)
 
-* NervanaSystems/caffe2neon: Tools to convert Caffe models to neon's serialization format  
-https://github.com/NervanaSystems/caffe2neon
+* [NervanaSystems/caffe2neon: Tools to convert Caffe models to neon's serialization format](https://github.com/NervanaSystems/caffe2neon)
 
 # Course
 
 This part contains related course, guides and tutorials.
 
-* Deep learning **systems**: UW course schedule(focused on systems design, not learning)  
-http://dlsys.cs.washington.edu/schedule
-
-* Squeezing Deep Learning Into Mobile Phones  
-https://www.slideshare.net/anirudhkoul/squeezing-deep-learning-into-mobile-phones
-
-* Deep Learning – Tutorial and Recent Trends  
-https://www.dropbox.com/s/p7lvelt0aihrwtl/FPGA%2717%20tutorial%20Song%20Han.pdf?dl=0
-
-* Efficient Convolutional Neural Network Inference on Mobile GPUs  
-https://www.slideshare.net/embeddedvision/efficient-convolutional-neural-network-inference-on-mobile-gpus-a-presentation-from-imagination-technologies
-
+* [Deep learning **systems**: UW course schedule(focused on systems design, not learning)](http://dlsys.cs.washington.edu/schedule)
+* [Squeezing Deep Learning Into Mobile Phones](https://www.slideshare.net/anirudhkoul/squeezing-deep-learning-into-mobile-phones)
+* [Deep Learning – Tutorial and Recent Trends](https://www.dropbox.com/s/p7lvelt0aihrwtl/FPGA%2717%20tutorial%20Song%20Han.pdf?dl=0)
+* [Efficient Convolutional Neural Network Inference on Mobile GPUs](https://www.slideshare.net/embeddedvision/efficient-convolutional-neural-network-inference-on-mobile-gpus-a-presentation-from-imagination-technologies)
 * ARM® Mali™ GPU OpenCL Developer Guide  
-html: http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.100614_0303_00_en/ada1432742770595.html  
-pdf:  http://infocenter.arm.com/help/topic/com.arm.doc.100614_0303_00_en/arm_mali_gpu_opencl_developer_guide_100614_0303_00_en.pdf
-
-* Optimal Compute on ARM MaliTM GPUs  
-http://www.cs.bris.ac.uk/home/simonm/montblanc/OpenCL_on_Mali.pdf
-
-* GPU Compute for Mobile Devices  
-http://www.iwocl.org/wp-content/uploads/iwocl-2014-workshop-Tim-Hartley.pdf
-
-* Compute for Mobile Devices Performance focused  
-http://kesen.realtimerendering.com/Compute_for_Mobile_Devices5.pdf
-
-* Hands On OpenCL  
-https://handsonopencl.github.io/
-
-* Adreno OpenCL Programming Guide  
-https://developer.qualcomm.com/download/adrenosdk/adreno-opencl-programming-guide.pdf
-
-* Better OpenCL Performance on Qualcomm Adreno GPU  
-https://developer.qualcomm.com/blog/better-opencl-performance-qualcomm-adreno-gpu-memory-optimization
+[html](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.100614_0303_00_en/ada1432742770595.html)  
+[pdf](http://infocenter.arm.com/help/topic/com.arm.doc.100614_0303_00_en/arm_mali_gpu_opencl_developer_guide_100614_0303_00_en.pdf)
+* [Optimal Compute on ARM MaliTM GPUs](http://www.cs.bris.ac.uk/home/simonm/montblanc/OpenCL_on_Mali.pdf)
+* [GPU Compute for Mobile Devices](http://www.iwocl.org/wp-content/uploads/iwocl-2014-workshop-Tim-Hartley.pdf)
+* [Compute for Mobile Devices Performance focused](http://kesen.realtimerendering.com/Compute_for_Mobile_Devices5.pdf)
+* [Hands On OpenCL](https://handsonopencl.github.io/)
+* [Adreno OpenCL Programming Guide](https://developer.qualcomm.com/download/adrenosdk/adreno-opencl-programming-guide.pdf)
+* [Better OpenCL Performance on Qualcomm Adreno GPU](https://developer.qualcomm.com/blog/better-opencl-performance-qualcomm-adreno-gpu-memory-optimization)
 
 ## Hardware
 
 ### GPU
 
-* Bifrost GPU architecture and ARM Mali-G71 GPU  
-https://www.hotchips.org/wp-content/uploads/hc_archives/hc28/HC28.22-Monday-Epub/HC28.22.10-GPU-HPC-Epub/HC28.22.110-Bifrost-JemDavies-ARM-v04-9.pdf
-
-* Midgard GPU Architecture  
-http://malideveloper.arm.com/downloads/ARM_Game_Developer_Days/PDFs/2-Mali-GPU-architecture-overview-and-tile-local-storage.pdf
-
-* ARM Mali-T880 GPU  
-https://www.hotchips.org/wp-content/uploads/hc_archives/hc27/HC27.25-Tuesday-Epub/HC27.25.50-GPU-Epub/HC27.25.531-Mali-T880-Bratt-ARM-2015_08_23.pdf
-
-* Mobile GPU market share  
-https://hwstats.unity3d.com/mobile/gpu.html
+* [Bifrost GPU architecture and ARM Mali-G71 GPU](https://www.hotchips.org/wp-content/uploads/hc_archives/hc28/HC28.22-Monday-Epub/HC28.22.10-GPU-HPC-Epub/HC28.22.110-Bifrost-JemDavies-ARM-v04-9.pdf)
+* [Midgard GPU Architecture](http://malideveloper.arm.com/downloads/ARM_Game_Developer_Days/PDFs/2-Mali-GPU-architecture-overview-and-tile-local-storage.pdf)
+* [ARM Mali-T880 GPU](https://www.hotchips.org/wp-content/uploads/hc_archives/hc27/HC27.25-Tuesday-Epub/HC27.25.50-GPU-Epub/HC27.25.531-Mali-T880-Bratt-ARM-2015_08_23.pdf)
+* [Mobile GPU market share](https://hwstats.unity3d.com/mobile/gpu.html)
 
 ## News
 
-* We ported CAFFE to HIP - and here’s what happened… - GPUOpen  
-http://gpuopen.com/ported-caffe-hip-heres-happened/
-
-* Clarifai launches SDK for training AI on your iPhone | VentureBeat | AI | by Khari Johnson
-https://venturebeat.com/2017/07/12/clarifai-launches-sdk-for-running-ai-on-your-iphone/
+* [We ported CAFFE to HIP - and here’s what happened… - GPUOpen](http://gpuopen.com/ported-caffe-hip-heres-happened/)
+* [Clarifai launches SDK for training AI on your iPhone | VentureBeat | AI | by Khari Johnson](https://venturebeat.com/2017/07/12/clarifai-launches-sdk-for-running-ai-on-your-iphone/)
