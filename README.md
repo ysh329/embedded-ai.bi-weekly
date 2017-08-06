@@ -109,7 +109,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 ## LowRankApproximation
 
 * [CVPR'15] [Efficient and Accurate Approximations of Nonlinear Convolutional Networks](https://arxiv.org/abs/1411.4229)
-  * [ccelerating Very Deep Convolutional Networks for Classification and Detection](https://arxiv.org/abs/1505.06798)
+  * [Accelerating Very Deep Convolutional Networks for Classification and Detection](https://arxiv.org/abs/1505.06798)
 * [1511.06067] [Convolutional neural networks with low-rank regularization](https://arxiv.org/abs/1511.06067)
 * [NIPS'14] [Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/abs/1404.0736)
 * [ICLR'16] [Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications](https://arxiv.org/abs/1511.06530)
