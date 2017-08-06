@@ -57,7 +57,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 * [1512.03385] [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 * [1610.02357] [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357)
-* [1611.05431] **ResneXt**: [Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/abs/1611.05431)
+* [1611.05431] **ResNeXt**: [Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/abs/1611.05431)
 
 ## Overview
 
@@ -117,7 +117,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 ## Distillation
 
 * [1503.02531] [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
-* [Fce Model Compression by Distilling Knowledge from Neurons](http://www.ee.cuhk.edu.hk/~xgwang/papers/luoZLWXaaai16.pdf)
+* [Face Model Compression by Distilling Knowledge from Neurons](http://www.ee.cuhk.edu.hk/~xgwang/papers/luoZLWXaaai16.pdf)
 
 ## FrameworkPaper
 
