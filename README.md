@@ -139,6 +139,44 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 # Codes
 
+## Model Compression
+
+- [yonghenglh6/DepthwiseConvolution: A personal mobile convolution implementation on caffe by liuhao.(only GPU)](https://github.com/yonghenglh6/DepthwiseConvolution)  
+- [liuzhuang13/DenseNet: Densely Connected Convolutional Networks, In CVPR 2017 (Best Paper Award)](https://github.com/liuzhuang13/DenseNet)  
+- [kevinzakka/DenseNet: PyTorch Implementation of "Densely Connected Convolutional Networks"](https://github.com/kevinzakka/DenseNet)  
+- [hollance/MobileNet-CoreML: The MobileNet neural network using Apple's new CoreML framework](https://github.com/hollance/MobileNet-CoreML)  
+- [AngusG/tensorflow-xnor-bnn: BinaryNets in TensorFlow with XNOR GEMM op](https://github.com/AngusG/tensorflow-xnor-bnn)  
+- [jonathanmarek1/binarynet-tensorflow](https://github.com/jonathanmarek1/binarynet-tensorflow)  
+- [farmingyard/caffe-mobilenet: A caffe implementation of mobilenet's depthwise convolution layer](https://github.com/farmingyard/caffe-mobilenet)  
+- [kedartatwawadi/NN_compression](https://github.com/kedartatwawadi/NN_compression)  
+- [chuanqi305/MobileNet-SSD: Caffe implementation of Google MobileNet SSD detection network, with pretrained weights on VOC0712 and mAP=0.727.](https://github.com/chuanqi305/MobileNet-SSD)  
+
+## Model Encryption 
+
+- [OpenMined/Syft: Homomorphically Encrypted Deep Learning Library](https://github.com/OpenMined/syft)  
+
+## Model Application
+
+- [msracver/FCIS: Fully Convolutional Instance-aware Semantic Segmentation](https://github.com/msracver/FCIS)  
+- [bearpaw/PyraNet: Code for "Learning Feature Pyramids for Human Pose Estimation" (ICCV 2017)](https://github.com/bearpaw/PyraNet)  
+- [aquaviter/iot-demo-mxnet-greengrass](https://github.com/aquaviter/iot-demo-mxnet-greengrass)  
+- [bearpaw/PyraNet: Code for "Learning Feature Pyramids for Human Pose Estimation" (ICCV 2017)](https://github.com/bearpaw/PyraNet)  
+- [CongWeilin/mtcnn-caffe: Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks](https://github.com/CongWeilin/mtcnn-caffe)  
+- [foreverYoungGitHub/MTCNN: Repository for "Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks", implemented with Caffe, C++ interface.](https://github.com/foreverYoungGitHub/MTCNN)  
+- [OAID/mtcnn: C++ project to implement MTCNN, a perfect face detect algorithm, on different DL frameworks. The most popular frameworks: caffe/mxnet/tensorflow, are all suppported now](https://github.com/oaid/mtcnn)  
+- [Seanlinx/mtcnn: this repository is the implementation of MTCNN in MXnet](https://github.com/Seanlinx/mtcnn)  
+- [LaoDar/cnn_head_pose_estimator: a simple and fast mxnet version CNN based head pose estimator](https://github.com/LaoDar/cnn_head_pose_estimator)  
+
+## AR
+
+- [ProjectDent/ARKit-CoreLocation: Combines the high accuracy of AR with the scale of GPS data](https://github.com/ProjectDent/ARKit-CoreLocation)  
+- [bjarnel/arkit-tictactoe: Tic-Tac-Toe implemented using ARKit+Scenekit](https://github.com/bjarnel/arkit-tictactoe)  
+- [arirawr/ARKit-FloorIsLava: Basic ARKit example that detects planes and makes them lava.](https://github.com/arirawr/ARKit-FloorIsLava)  
+- [exyte/ARTetris: Augmented Reality Tetris made with ARKit and SceneKit](https://github.com/exyte/ARTetris)
+- [bjarnel/arkit-portal: Simple portal demo implemented with ARKit+SceneKit, the trick is to change the rendering order and render invisible "masks" to hide what's inside.](https://github.com/bjarnel/arkit-portal)  
+- [bjarnel/scenekit-tictactoe](https://github.com/bjarnel/scenekit-tictactoe)  
+
+
 ## Android
 
 * [harvardnlp/nmt-android: Neural Machine Translation on Android](https://github.com/harvardnlp/nmt-android)
@@ -146,7 +184,8 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 * [KleinYuan/Caffe2-iOS: Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.](https://github.com/KleinYuan/Caffe2-iOS)
 * [MXNet Android Classification App - Image classification on Android with MXNet.](https://github.com/Leliana/WhatsThis)
 * [bwasti/AICamera: Demonstration of using Caffe2 inside an Android application.](https://github.com/bwasti/AICamera)
-* [mtmd/Mobile_ConvNet: RenderScript based implementation of Convolutional Neural Networks for Android phones](https://github.com/mtmd/Mobile_ConvNet)
+* [mtmd/Mobile_ConvNet: RenderScript based implementation of Convolutional Neural Networks for Android phones](https://github.com/mtmd/Mobile_ConvNet)  
+- [madeye/yolo-android: Quantized Tiny Yolo Demo on Android](https://github.com/madeye/yolo-android)  
 
 ## iOS
 
@@ -155,6 +194,9 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 * [KleinYuan/Caffe2-iOS: Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.](https://github.com/KleinYuan/Caffe2-iOS)
 * [KimDarren/FaceCropper: Crop faces, inside of your image, with iOS 11 Vision api.](https://github.com/KimDarren/FaceCropper)
 * [hollance/TensorFlow-iOS-Example: Source code for my blog post "Getting started with TensorFlow on iOS"](https://github.com/hollance/TensorFlow-iOS-Example)
+- [kingreza/SeeFood: Inspired by HBO's Silicon Valley: SeeFood is an iOS app that uses CoreML to detect various dishes](https://github.com/kingreza/SeeFood)  
+- [hollance/TensorFlow-iOS-Example: Source code for my blog post "Getting started with TensorFlow on iOS"](https://github.com/hollance/TensorFlow-iOS-Example)  
+- [Naituw/CoreMLDemo: Demo for CoreML & Vision Framework](https://github.com/Naituw/CoreMLDemo)  
 
 ## Vulkan
 
@@ -162,13 +204,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 * [ARM-software/vulkan-sdk: ARM Vulkan SDK](https://github.com/ARM-software/vulkan-sdk)
 * [alexhultman/libvc: Vulkan Compute for C++ (experimentation project)](https://github.com/alexhultman/libvc)
 
-# Frameworks
-
-## General  
-General frameworks contain inference and backprop stages.
-
-## Inference  
-Inference frameworks contains inference stage only.
+## Frameworks & Acceleration Library
 
 * [Deep Learning in a Single File for Smart Devices — mxnet](https://github.com/dmlc/mxnet/tree/master/amalgamation)
 * [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary) [Intro](https://developer.arm.com/technologies/compute-library)
@@ -178,17 +214,46 @@ Inference frameworks contains inference stage only.
 * [jiaxiang-wu/quantized-cnn: An efficient framework for convolutional neural networks](https://github.com/jiaxiang-wu/quantized-cnn)
 * [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn)
 
+- [Darknet with NNPACK: NNPACK was used to optimize Darknet without using a GPU. It is useful for embedded devices using ARM CPUs](https://github.com/thomaspark-pkj/darknet-nnpack)  
+- [naibaf7/libdnn: Greentea LibDNN - a universal convolution implementation supporting CUDA and OpenCL](https://github.com/naibaf7/libdnn)  
+- [blei-lab/edward: A library for probabilistic modeling, inference, and criticism. Deep generative models, variational inference. Runs on TensorFlow](https://github.com/blei-lab/edward)  
+- [dmlc/nnvm-fusion: Kernel Fusion and Runtime Compilation Based on NNVM](https://github.com/dmlc/nnvm-fusion)  
+
 ## Benchmark
 
-* [baidu-research/DeepBench: Benchmarking Deep Learning operations on different hardware](https://github.com/baidu-research/DeepBench)
-
-* facebook
+* [baidu-research/DeepBench: Benchmarking Deep Learning operations on different hardware](https://github.com/baidu-research/DeepBench)  
+- [hollance/BNNS-vs-MPSCNN: Compares the speed of Apple's two deep learning frameworks: BNNS and Metal Performance Shaders](https://github.com/hollance/BNNS-vs-MPSCNN)  
+- [DeepMark/deepmark: THE Deep Learning Benchmarks](https://github.com/DeepMark/deepmark)  
 
 ## Convertor
 
 Model convertor. More convertors please refer [deep-learning-model-convertor](https://github.com/ysh329/deep-learning-model-convertor)
 
 * [NervanaSystems/caffe2neon: Tools to convert Caffe models to neon's serialization format](https://github.com/NervanaSystems/caffe2neon)
+
+## Mobile Video Process Library/Player
+
+- [MTG/essentia: C++ library for audio and music analysis, description and synthesis, including Python bindings](https://github.com/MTG/essentia)  
+- [Pili-完美直播体验（Pili Streaming Cloud）](https://github.com/pili-engineering)  
+- [pili-engineering/PLDroidMediaStreaming: PLDroidMediaStreaming 是 Pili 直播 SDK 的 Android 推流端，支持 RTMP 推流，h.264 和 AAC 编码，硬编、软编支持。具有丰富的数据和状态回调，方便用户根据自己的业务定制化开发。具有直播场景下的重要功能，如：美颜、背景音乐、水印等功能。PLDroidMediaStreaming 是现在目前重点维护的版本，自带采集模块也支持用户自己做采集端。](https://github.com/pili-engineering/PLDroidMediaStreaming)  
+- [pili-engineering/PLDroidShortVideo: PLDroidShortVideo 是七牛推出的一款适用于 Android 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、本地/云端存储在内的多种功能，支持高度定制以及二次开发。](https://github.com/pili-engineering/PLDroidShortVideo)  
+- [pili-engineering/PLDroidPlayer: PLDroidPlayer 是 Pili 直播 SDK 的安卓播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。](https://github.com/pili-engineering/PLDroidPlayer)  
+- [pili-engineering/PLMediaStreamingKit: PLMediaStreamingKit 是 Pili 直播 SDK 的 iOS 推流端，支持 RTMP 推流，h.264 和 AAC 编码，硬编、软编支持。具有丰富的数据和状态回调，方便用户根据自己的业务定制化开发。具有直播场景下的重要功能，如：美颜、背景音乐、水印等功能。](https://github.com/pili-engineering/PLMediaStreamingKit)  
+- [pili-engineering/PLShortVideoKit: PLShortVideoKit 是七牛推出的一款适用于 iOS 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、本地/云端存储在内的多种功能，支持高度定制以及二次开发。](https://github.com/pili-engineering/PLShortVideoKit)  
+- [pili-engineering/PLPlayerKit: PLPlayerKit 是 Pili 直播 SDK 的 iOS 播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。](https://github.com/pili-engineering/PLPlayerKit)  
+- [pili-engineering/PLPlayerKit: PLPlayerKit 是 Pili 直播 SDK 的 iOS 播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。](https://github.com/pili-engineering/PLPlayerKit)  
+
+## Other Toolkit
+
+- [facebook/fb-caffe-exts: Some handy utility libraries and tools for the Caffe deep learning framework.](https://github.com/facebook/fb-caffe-exts)  
+- [Samsung/iotjs: Platform for Internet of Things with JavaScript](http://www.iotjs.net) [code](https://github.com/Samsung/iotjs)  
+- [hollance/Forge: A neural network toolkit for Metal](https://github.com/hollance/Forge)  
+- [christopher5106/FastAnnotationTool: A tool using OpenCV to annotate images for image classification, optical character reading, etc.](https://github.com/christopher5106/FastAnnotationTool)  
+- [raphui/rnk: rnk is a RTOS targeting ARM architecture.](https://github.com/raphui/rnk)
+
+# Data Set
+
+- [HandNet - A dataset of depth images of hands](http://www.cs.technion.ac.il/~twerd/HandNet/)  
 
 # Course
 
@@ -207,6 +272,14 @@ This part contains related course, guides and tutorials.
 * [Adreno OpenCL Programming Guide](https://developer.qualcomm.com/download/adrenosdk/adreno-opencl-programming-guide.pdf)
 * [Better OpenCL Performance on Qualcomm Adreno GPU](https://developer.qualcomm.com/blog/better-opencl-performance-qualcomm-adreno-gpu-memory-optimization)
 
+- [Tutorial on Hardware Architectures for Deep Neural Networks | MIT MICRO-50](http://eyeriss.mit.edu/tutorial.html)  
+- [基于mtcnn和facenet的实时人脸检测与识别系统开发 | 知乎专栏](https://zhuanlan.zhihu.com/p/25025596?refer=shanren7)  
+- [Creating insanely fast image classifiers with MobileNet in TensorFlow | HACKERNOON](https://hackernoon.com/creating-insanely-fast-image-classifiers-with-mobilenet-in-tensorflow-f030ce0a2991)  
+- [How to squeeze the most from your training data | KDNUGGETS](http://www.kdnuggets.com/2017/07/squeeze-most-from-training-data.html)  
+- [Ubuntu16.04腾讯NCNN框架入门到应用 | CSDN](http://blog.csdn.net/Best_Coder/article/details/76201275)  
+- [Building Cross-Platform CUDA Applications with CMake | NVIDIA](https://devblogs.nvidia.com/parallelforall/building-cuda-applications-cmake/?_lrsc=dca4b9d4-7747-48e0-b9a0-961aba39a657&ncid=so-twi-lt-799)  
+- [Caffe2 Bay Area Meetup (5/31/2017) | YouTube](https://www.youtube.com/playlist?list=PLD5D5H5YL9SIjxj3IC019AprtgJAjIU3q)
+
 ## Hardware
 
 ### GPU
@@ -217,6 +290,26 @@ This part contains related course, guides and tutorials.
 * [Mobile GPU market share](https://hwstats.unity3d.com/mobile/gpu.html)
 
 ## News
+
+2017-08-07
+
+- [OpenCV 3.3版本发布](http://opencv.org/opencv-3-3.html)  
+- [鱼和熊掌兼得，DNN加入 OpenCV 全家桶 | 知乎专栏](https://zhuanlan.zhihu.com/p/28323601?utm_source=wechat_timeline&utm_medium=social&from=timeline)  
+- [Qualcomm Snapdragon Neural Processing Engine (NPE) | Qualcomm Developer Network](https://developer.qualcomm.com/software/snapdragon-neural-processing-engine)  
+- [AI让芯片业洗牌: 苹果、微软和谷歌挤入赛道，英特尔、英伟达、高通、AMD几家欢乐几家愁 | 新智元](http://mp.weixin.qq.com/s/WlZTXCRy0xGeuJLQMxZGeQ)  
+- [解密图森：英伟达为何投资这家无人车公司；估值18亿背后有位长者 | 量子位](http://www.sohu.com/a/162189343_610300)  
+- [被英伟达相中，给Tier1供货，天瞳威视仅靠AI就搞定ADAS | 车东西](https://mp.weixin.qq.com/s?src=3&timestamp=1502018174&ver=1&signature=UozfhYMHOaRae6vesHbE0yvQl8DqpLOL5ru3ZXmsKHVAUaiot1ZdwO6KVmCEe7TVhPO1DlSEsgl-*X8wwn95LDDoauBV*GJIlk*DWEgLhmdZ5gddTV90tMZybHzU4iyJy7n3SZfs99YI4GewOq3LFpwPkrcGBIE20iavJ6jnDaM=)  
+- [ARM的最新NB-IoT报告 | 5G](https://mp.weixin.qq.com/s?src=3&timestamp=1502018201&ver=1&signature=gUEmNUHy8y-SoCfrsriCmcDhzptEE4mc0M9tSLutgZ7ao2TvO25ZLK0iqVLspVKOADxdgPe3tu0IrjdlVtfx4aek4KEufToHuOAz2eXGro2OoeY8Yry0KfC47D8H8B0XiJvv-2G-PKJQN378zkUovM9LwC5SkxceA-8pa6t*-D4=)  
+- [ARM发飙！几个月后手机处理器将因它们而变天！ | 智趣狗](https://mp.weixin.qq.com/s?__biz=MzI2NTM2OTc1Nw%3D%3D&mid=2247485358&idx=1&sn=1fb5f161cbf80093d952186dc5e8f02c&scene=45#wechat_redirect)  
+- [人工智能和云计算让芯片业洗牌，英特尔成了最大输家 | 量子位](http://mp.weixin.qq.com/s/G_OEZJ0a62TZuMRq5jpXmA)  
+- [The Rise of AI Is Forcing Google and Microsoft to Become Chipmakers | WIRED](https://www.wired.com/story/the-rise-of-ai-is-forcing-google-and-microsoft-to-become-chipmakers/)  
+- [如何评价腾讯刚出的ncnn库？ | 知乎](https://www.zhihu.com/question/62871439)  
+- [沈向洋宣布微软开发 AI 芯片HPU，剑指英伟达等芯片巨头软肋 | 新智元](http://www.sohu.com/a/160700395_473283)  
+- [超越GPU，FPGA、ASIC和更智能的手机 ｜ 新智元](http://www.sohu.com/a/160215465_473283)  
+- ["TensorFire - runs neural networks in the browser using WebGL"](https://tenso.rs/) [[Demo: style-transfer]](https://tenso.rs/demos/fast-neural-style/)  
+- [Getting Started with Neural Compute Stick and Rasbperry Pi 3 | YouTube](https://www.youtube.com/watch?v=f39NFuZAj6s)
+
+2017-07-24
 
 * [We ported CAFFE to HIP - and here’s what happened… - GPUOpen](http://gpuopen.com/ported-caffe-hip-heres-happened/)
 * [Clarifai launches SDK for training AI on your iPhone | VentureBeat | AI | by Khari Johnson](https://venturebeat.com/2017/07/12/clarifai-launches-sdk-for-running-ai-on-your-iphone/)
