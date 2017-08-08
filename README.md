@@ -66,18 +66,25 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Representation
 
+- [1707.09926] [A Framework for Super-Resolution of Scalable Video via Sparse Reconstruction of Residual Frames](https://arxiv.org/abs/1707.09926v1)  
+- [1608.01409] [Faster CNNs with Direct Sparse Convolutions and Guided Pruning](https://arxiv.org/abs/1608.01409v5)  
 * [SenSys ’16] [Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables](http://niclane.org/pubs/sparsesep_sensys.pdf)
 * [IoT-App ’15] [An Early Resource Characterization of Deep Learning on Wearables, Smartphones and Internet-of-Things Devices](http://niclane.org/pubs/iotapp15_early.pdf)
 
 ## Structure
 
+- [1704.06904] [Residual Attention Network for Image Classification](https://arxiv.org/pdf/1704.06904.pdf) [[code]](https://github.com/buptwangfei/residual-attention-network)  
+- [BranchyNet: Fast Inference via Early Exiting from Deep Neural Networks](http://www.eecs.harvard.edu/~htk/publication/2016-icpr-teerapittayanon-mcdanel-kung.pdf)  
+* [CVPR2017] [Squeeze-and-Excitation networks (ILSVRC 2017 winner) at CVPR2017](http://image-net.org/challenges/talks_2017/SENet.pdf)  
 * [1707.06342] [ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression](https://arxiv.org/abs/1707.06342)
 * [1707.01083] [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/abs/1707.01083)
 * [1704.04861] [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
+- [1707.06990] [Memory-Efficient Implementation of DenseNets](https://arxiv.org/abs/1707.06990)  
 * [1706.03912] [SEP-Nets: Small and Effective Pattern Networks](https://arxiv.org/abs/1706.03912)
 
 ## Binarization
 
+- [CVPR2017] [Local Binary Convolutional Neural Networks](http://xujuefei.com/lbcnn.html) [[code]](https://github.com/juefeix/lbcnn.torch)  
 * [1707.04693] [Binarized Convolutional Neural Networks with Separable Filters for Efficient Hardware Acceleration](https://arxiv.org/abs/1707.04693)
 * [1602.02830] [Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1](https://arxiv.org/abs/1602.02830)
 * [1603.05279] [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks](https://arxiv.org/abs/1603.05279)
@@ -86,6 +93,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Pruning
 
+- [Learning to Prune: Exploring the Frontier of Fast and Accurate Parsing](http://www.cs.jhu.edu/~jason/papers/vieira+eisner.tacl17.pdf) [[code]](https://github.com/timvieira/learning-to-prune)  
 * [CVPR'17] [Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning](https://arxiv.org/abs/1611.05128)
 * [ICLR'17] [Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710)
 * [ICLR'17] [Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440)
@@ -118,6 +126,38 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 * [1503.02531] [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
 * [Face Model Compression by Distilling Knowledge from Neurons](http://www.ee.cuhk.edu.hk/~xgwang/papers/luoZLWXaaai16.pdf)
+
+## Joint Compression
+
+- [1707.09102] [Fine-Pruning: Joint Fine-Tuning and Compression of a Convolutional Network with Bayesian Optimization](https://arxiv.org/abs/1707.09102)  
+
+## Kernel Selection
+
+- [1703.09746] [Coordinating Filters for Faster Deep Neural Networks](https://arxiv.org/abs/1703.09746v3)  
+- [1606.05316] [Learning Infinite-Layer Networks: Without the Kernel Trick](https://arxiv.org/abs/1606.05316v2)  
+
+## Computation Precison/Resolution
+
+- [ICML2017] [Analytical Guarantees on Numerical Precision of Deep Neural Networks](http://proceedings.mlr.press/v70/sakr17a.html)  
+- [1707.09068] [Tartan: Accelerating Fully-Connected and Convolutional Layers in Deep Learning Networks by Exploiting Numerical Precision Variability](https://arxiv.org/abs/1707.09068v1)   
+- [1708.00999] [Extreme Low Resolution Activity Recognition with Multi-Siamese Embedding Learning](https://arxiv.org/abs/1708.00999)  
+
+## Model Split
+
+- [ASPLOS’17] [Neurosurgeon: Collaborative intelligence between the cloud and mobile edge](http://web.eecs.umich.edu/~jahausw/publications/kang2017neurosurgeon.pdf)  
+- [1705.04630] [Forecasting using incomplete models](https://arxiv.org/abs/1705.04630v2)  
+
+## Others
+
+- [1606.05316] [Learning Infinite-Layer Networks: Without the Kernel Trick](https://arxiv.org/abs/1606.05316v2)  
+
+- [1608.02893] [Syntactically Informed Text Compression with Recurrent Neural Networks](https://arxiv.org/abs/1608.02893)  
+- [1608.05148] [Full Resolution Image Compression with Recurrent Neural Networks](https://arxiv.org/abs/1608.05148v2)  
+
+- [1707.09422] [Hyperprofile-based Computation Offloading for Mobile Edge Networks](https://arxiv.org/abs/1707.09422v1)  
+- [1707.09855] [Convolution with Logarithmic Filter Groups for Efficient Shallow CNN](https://arxiv.org/abs/1707.09855v1)  
+- [1707.09597] [ScanNet: A Fast and Dense Scanning Framework for Metastatic Breast Cancer Detection from Whole-Slide Images](https://arxiv.org/abs/1707.09597v1)  
+- [1604.08772] [Towards Conceptual Compression](https://arxiv.org/abs/1604.08772)  
 
 ## FrameworkPaper
 
