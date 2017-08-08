@@ -49,6 +49,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 - [Course/Guide/Tutorial](#course)
 - [Hardware](#hardware)
   - [GPU](#gpu)
+- [Company](#company)
 - [News](#news)
 
 # Papers
@@ -61,6 +62,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Overview
 
+* [1703.09039] [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://arxiv.org/abs/1703.09039)  
 * [1707.01209] [Model compression as constrained optimization, with application to neural nets. Part I: general framework](https://arxiv.org/abs/1707.01209)
 * [1707.04319] [Model compression as constrained optimization, with application to neural nets. Part II: quantization](https://arxiv.org/abs/1707.04319)
 
@@ -329,7 +331,12 @@ This part contains related course, guides and tutorials.
 * [ARM Mali-T880 GPU](https://www.hotchips.org/wp-content/uploads/hc_archives/hc27/HC27.25-Tuesday-Epub/HC27.25.50-GPU-Epub/HC27.25.531-Mali-T880-Bratt-ARM-2015_08_23.pdf)
 * [Mobile GPU market share](https://hwstats.unity3d.com/mobile/gpu.html)
 
-## News
+# Company
+
+- [Lift: A novel approach to achieving performance portability on parallel accelerators. | Where High-Level Programming Meets Performance Portability](http://www.lift-project.org/index.html)  
+- [mlmodelzoo.com – deep learning models on mobile](http://mlmodelzoo.com/)
+
+# News
 
 2017-08-07
 
