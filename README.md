@@ -1,3 +1,7 @@
+This awesome list was UNMAINTAINED. move forward to new **bi-weekly-reports**: [PerfXLab/embedded_ai](https://github.com/PerfXLab/embedded_ai).
+
+
+
 # Awesome-Emebedded-AI
 <p align="center">
   <a href="https://github.com/ysh329/Embedded-AI-awesome">
