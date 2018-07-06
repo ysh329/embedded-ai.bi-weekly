@@ -1,4 +1,4 @@
-This awesome list was UNMAINTAINED. move forward to new **bi-weekly-reports**: [PerfXLab/embedded_ai](https://github.com/PerfXLab/embedded_ai).
+This awesome list will be continually updated. Besides, you can read new **bi-weekly-reports**: [PerfXLab/embedded_ai](https://github.com/PerfXLab/embedded_ai).
 
 
 
