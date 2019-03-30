@@ -1,4 +1,4 @@
-This awesome list will be continually updated. Besides, you can read new **bi-weekly-reports**: embedded-ai-weekly branch.
+# Embedded-AI-weekly
 
 
 
