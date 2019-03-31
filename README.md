@@ -1,6 +1,6 @@
 # Embedded-AI-Report
 
-- [2019-03-31](./embedded-ai-report/2019-03-31.README)
+- [2019-03-31](./embedded-ai-report/2019-03-31.)
 
 # Awesome-Emebedded-AI
 <p align="center">
