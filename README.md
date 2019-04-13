@@ -1,7 +1,7 @@
 # Embedded-AI-Report
 
 
-- [2019-04-12](./embedded-ai-report/2019-04-12.md)
+- [2019-04-13](./embedded-ai-report/2019-04-13.md)
 - [2019-03-31](./embedded-ai-report/2019-03-31.md)  
 
 
