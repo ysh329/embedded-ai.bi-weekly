@@ -1,9 +1,12 @@
+![img](./wechat.jpg)
+
 # Embedded-AI-Report
 
 
 - [2019-04-28](./embedded-ai-report/2019-04-28.md)  
 - [2019-04-13](./embedded-ai-report/2019-04-13.md)  
 - [2019-03-31](./embedded-ai-report/2019-03-31.md)  
+
 
 
 # Awesome-Emebedded-AI
