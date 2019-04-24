@@ -1,4 +1,4 @@
-![img](./wechat.jpg)
+![img](./wechat_qrcode.jpg)
 
 # Embedded-AI-Report
 
