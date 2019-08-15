@@ -82,7 +82,9 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 - [手机CPU性能天梯图 CPU performance of mobile comparison | mydriver](http://www.mydrivers.com/zhuanti/tianti/01/)
 - Qualcomm Adreno GPU Performance as below:
 
-![adreno_gpu_performance](./device_benchmark/qualcomm_adreno_gpu_benchmark.png)
+![adreno_gpu_performance](./device_benchmark/qualcomm_adreno_gpu_benchmark.png)  
+- [手机处理器天梯图_最新CPU天梯图_手机CPU性能天梯图 | ZOL中关村在线](http://mobile.zol.com.cn/soc/)
+ 
 
 # Papers
 
