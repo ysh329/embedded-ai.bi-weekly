@@ -78,7 +78,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 # Device Benchmark
 
-- [高通骁龙处理器排行榜,强大性能一览无余 | Qualcomm](https://www.qualcomm.cn/snapdragon/processors/comparison)
+- [高通骁龙处理器排行榜,强大性能一览无余 | Qualcomm](https://www.qualcomm.com/snapdragon/processors/comparison)
 - [手机CPU性能天梯图 CPU performance of mobile comparison | mydriver](http://www.mydrivers.com/zhuanti/tianti/01/)
 - Qualcomm Adreno GPU Performance as below:
 
