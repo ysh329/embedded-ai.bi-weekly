@@ -6,6 +6,7 @@ Wechat ID: NeuroMem
 
 关注模型压缩、低比特量化、移动端推理加速优化、部署
 
+- [2019-12-02](./embedded-ai-report/2019-12-02.md) 
 - [2019-11-30](./embedded-ai-report/2019-11-30.md) 
 - [2019-11-18](./embedded-ai-report/2019-11-18.md) 
 - [2019-10-31](./embedded-ai-report/2019-10-31.md) 
