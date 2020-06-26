@@ -1,6 +1,6 @@
 ![img](./wechat_qrcode.jpg)
 
-Wechat ID: NeuroMem
+Wechat ID: NeuralTalk
 
 # Embedded-AI-Report
 
