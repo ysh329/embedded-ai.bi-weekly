@@ -20,7 +20,7 @@ Wechat ID: NeuralTalk
 
 
 
-# Awesome-Emebedded-AI
+# embedded-ai.bi-weekly
 <p align="center">
   <a href="https://github.com/ysh329/Embedded-AI-awesome">
     <img alt="Embedded-AI-awesome" src="logo.jpg" width="300">
@@ -45,6 +45,8 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 </p>
 
 </div>
+
+# Awesome-Emebedded-AI
 
 ## Contents
 
