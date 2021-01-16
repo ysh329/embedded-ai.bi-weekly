@@ -6,8 +6,10 @@ Wechat ID: NeuralTalk
 
 关注模型压缩、低比特量化、移动端推理加速优化、部署
 
-| 2 | 0 | 2 | 0 |
+| 2 | 0 | 2 | 1 |
 |:---:|:---:|:---:|:---:|
+|  |  |  |  |
+| 2 | 0 | 2 | 0 |
 | [2021-01-05](./embedded-ai-report/2021-01-05.md) | [2020-11-30](./embedded-ai-report/2020-11-30.md) | [2020-10-21](./embedded-ai-report/2020-10-21.md) | [2020-09-17](./embedded-ai-report/2020-09-17.md) |
 | [2020-08-26](./embedded-ai-report/2020-08-26.md) | [2020-08-06](./embedded-ai-report/2020-08-06.md) | [2020-07-18](./embedded-ai-report/2020-07-18.md) | [2020-07-02](./embedded-ai-report/2020-07-02.md) |
 | [2020-06-17](./embedded-ai-report/2020-06-17.md) | [2020-06-03](./embedded-ai-report/2020-06-03.md) | [2020-05-15](./embedded-ai-report/2020-05-15.md) | [2020-04-26](./embedded-ai-report/2020-04-26.md) |  
