@@ -8,7 +8,7 @@ Wechat ID: NeuralTalk
 
 | 2 | 0 | 2 | 1 |
 |:---:|:---:|:---:|:---:|
-|  |  |  |  |  
+|  |  | [2021-08-24.md](./embedded-ai-report/2021-08-24.md) | [2021-08-05.md](./embedded-ai-report/2021-08-05.md) |  
 | [2021-07-18.md](./embedded-ai-report/2021-07-18.md) | [2021-07-01.md](./embedded-ai-report/2021-07-01.md) | [2021-05-21.md](./embedded-ai-report/2021-05-21.md) | [2021-01-19](./embedded-ai-report/2021-01-19.md) |
 | 2 | 0 | 2 | 0 |
 | [2021-01-05](./embedded-ai-report/2021-01-05.md) | [2020-11-30](./embedded-ai-report/2020-11-30.md) | [2020-10-21](./embedded-ai-report/2020-10-21.md) | [2020-09-17](./embedded-ai-report/2020-09-17.md) |
