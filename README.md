@@ -280,6 +280,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 * [bwasti/AICamera: Demonstration of using Caffe2 inside an Android application.](https://github.com/bwasti/AICamera)
 * [mtmd/Mobile_ConvNet: RenderScript based implementation of Convolutional Neural Networks for Android phones](https://github.com/mtmd/Mobile_ConvNet)  
 - [madeye/yolo-android: Quantized Tiny Yolo Demo on Android](https://github.com/madeye/yolo-android)  
+- [CleanSlate](https://github.com/devshield-tech/botox-android) - Remotely wipe your Android device if it is lost or stolen.
 
 ## iOS
 
